@@ -87,6 +87,38 @@ http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 ,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ,Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 ,ZEE TV SD
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 ,APAC: ZEE CINEMA HD
+http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+#EXTINF:-1 ,ZEE CINEMA SD
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 ,ZEE BOLLYWOOD SD
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1 ,BollyWood Serial HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 ,GEM BOLLYWOOD 
+http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
+#EXTINF:-1 ,STAR PLUS HD 
+http://130.185.150.79:1935/db24/starplus/playlist.m3u8
+#EXTINF:-1 ,Star Plus SD
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1 ,STAR GOLD HD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1 ,Star Gold SD
+http://137.59.155.253:8088/hls/Star_Gold.m3u8
+#EXTINF:-1 ,IN: SONY TV HD
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,SONY SAB HD 
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,SONY MAX HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,SONY PIX HD
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,SONY MOVIES
+http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
 #EXTINF:-1 ,HBO (UK)
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 ,HBO : (Malaysian Sub)
