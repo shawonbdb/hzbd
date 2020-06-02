@@ -91,7 +91,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 ,ZEE TV SD
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 ,APAC: ZEE CINEMA HD
+#EXTINF:-1 ,ZEE CINEMA HD
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 ,ZEE CINEMA SD
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
@@ -121,7 +121,7 @@ https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=e
 http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
 #EXTINF:-1 ,HBO (UK)
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 ,HBO : (Malaysian Sub)
+#EXTINF:-1 ,HBO (Malaysian Sub)
 https://delivery.macan.live/stream/hbo/index.m3u8?token=uLys6&v=20200308
 #EXTINF:-1 ,Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
