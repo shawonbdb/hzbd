@@ -43,6 +43,8 @@ https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1 ,ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+#EXTINF:-1 ,Ekattor TV HD
+http://137.59.155.253:8088/hls/live/vetv_ekattor_tv/index.m3u8
 #EXTINF:-1 ,Ekattor TV
 https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #EXTINF:-1 ,Channel 24
@@ -55,16 +57,20 @@ https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1 ,DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 ,Bangla Time
-http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8
+#EXTINF:-1 ,Shangshad Bangladesh
+http://137.59.155.253:8088/hls/SKYNET-SportsHD.m3u8
 #EXTINF:-1 ,Nagorik TV
 https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+#EXTINF:-1 ,Sony 8
+http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 #EXTINF:-1 ,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 ,Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 ,Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+#EXTINF:-1 ,Channel SongsBD
+http://137.59.155.253:8088/hls/channel9tv.m3u8
 #EXTINF:-1 ,Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 ,Jonack TV
@@ -133,3 +139,16 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 ,AXN (INDONESIA)
 https://delivery.macan.live/stream/id_axn/index.m3u8?token=uLys6&v=20200308
+#EXTINF:-1 ,Sony Six
+http://137.59.155.253:8088/hls/Sony-Six.m3u8
+#EXTINF:-1 ,Sony Ten-1
+http://137.59.155.253:8088/hls/sony-ten-1.m3u8
+#EXTINF:-1 ,Sony Ten-2
+http://137.59.155.253:8088/hls/sony-ten-2.m3u8
+#EXTINF:-1 ,Star Sports-1
+http://137.59.155.253:8088/hls/star-sports-1.m3u8
+#EXTINF:-1 ,Star Sports-2 HD
+http://137.59.155.253:8088/hls/live/vetv_Star-Sports-2/index.m3u8
+
+#EXTINF:-1 ,Channel News Asia
+http://137.59.155.253:8088/hls/live/vetv_channel_news_asia/index.m3u8
