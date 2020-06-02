@@ -149,6 +149,19 @@ http://137.59.155.253:8088/hls/sony-ten-2.m3u8
 http://137.59.155.253:8088/hls/star-sports-1.m3u8
 #EXTINF:-1 ,Star Sports-2 HD
 http://137.59.155.253:8088/hls/live/vetv_Star-Sports-2/index.m3u8
+#EXTINF:-1 ,D sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 ,DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 ,PTV Sports
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1 ,Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 ,Fox Sports 506 HD
+http://45.58.62.92:8080
+#EXTINF:-1 ,CBS SPORTS HD (Azerbaijan)
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
+
 
 #EXTINF:-1 ,Channel News Asia
 http://137.59.155.253:8088/hls/live/vetv_channel_news_asia/index.m3u8
