@@ -185,11 +185,8 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 http://45.58.62.92:8080
 #EXTINF:-1 ,CBS SPORTS HD (Azerbaijan)
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
-
-
 #EXTINF:-1 ,Channel News Asia
 http://137.59.155.253:8088/hls/live/vetv_channel_news_asia/index.m3u8
-
 #EXTINF:-1 ,Ayaat TV
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1 ,مكة TV
