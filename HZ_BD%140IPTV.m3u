@@ -139,6 +139,30 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 ,AXN (INDONESIA)
 https://delivery.macan.live/stream/id_axn/index.m3u8?token=uLys6&v=20200308
+#EXTINF:-1 ,ID: DISCOVERY CHANNEL HD
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=uLys6&v=20200308
+#EXTINF:-1 ,DISCOVERY HINDI 
+http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+#EXTINF:-1 ,DISCOVERY SCIENCE HINDI
+http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+#EXTINF:-1 ,DISCOVERY TURBO
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 ,ANIMAL PLANET HD HINDI
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
+#EXTINF:-1 ,ASIA: ANIMAL PLANET HD
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1 ,NATIONAL GEO WILD
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 ,TLC HD  HINDI
+http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p4.m3u8
+#EXTINF:-1 ,TLC HD
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:-1 ,BBK: TLC 
+https://delivery.macan.live/stream/tlc/index.m3u8?token=uLys6&v=20200308
+#EXTINF:-1 ,ASIA: TLC 
+http://136.243.177.164/TLC/playlist.m3u8
+#EXTINF:-1 ,HISTORY HD
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 ,Sony Six
 http://137.59.155.253:8088/hls/Sony-Six.m3u8
 #EXTINF:-1 ,Sony Ten-1
@@ -161,6 +185,8 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 http://45.58.62.92:8080
 #EXTINF:-1 ,CBS SPORTS HD (Azerbaijan)
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
+
+
 
 
 #EXTINF:-1 ,Channel News Asia
