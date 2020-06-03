@@ -187,11 +187,19 @@ http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 ,Fox Sports 506 HD
 http://45.58.62.92:8080
+
+#EXTINF:-1 ,CNN HD
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/6943?checkedby:iptvcat.com
+#EXTINF:-1 ,CNN INTERNATIONAL
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/28606?checkedby:iptvcat.com
+#EXTINF:-1 ,BBC News
+http://51.52.156.22:8888/http/004?checkedby:iptvcat.com
+#EXTINF:-1 ,BBC News HD UK
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/1777?checkedby:iptvcat.com
 #EXTINF:-1 ,CBS SPORTS HD (Azerbaijan)
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1 ,Channel News Asia
 http://137.59.155.253:8088/hls/live/vetv_channel_news_asia/index.m3u8
-
 
 #EXTINF:-1 ,Madina Live
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
@@ -203,10 +211,6 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Iqraa-Tv
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-
-
-
-
 
 #EXTINF:-1 ,CARTOON NETWORK HD UK
 http://globalworldsgreatest.uk:8080/clem13/TSISFsdeIv/73710?checkedby:iptvcat.com
