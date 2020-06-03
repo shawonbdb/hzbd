@@ -215,17 +215,6 @@ https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1 ,Channel News Asia
 http://137.59.155.253:8088/hls/live/vetv_channel_news_asia/index.m3u8
 
-#EXTINF:-1 ,Madina Live
-http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Ayaat TV
-http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
-#EXTINF:-1 ,مكة TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
-#EXTINF:-1 ,Makkah Live
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Iqraa-Tv
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-
 #EXTINF:-1 ,CARTOON NETWORK HD UK
 http://globalworldsgreatest.uk:8080/clem13/TSISFsdeIv/73710?checkedby:iptvcat.com
 #EXTINF:-1 ,CARTOON NETWORK PAKISTAN
@@ -243,3 +232,13 @@ http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/1864?checkedby:iptvcat.
 #EXTINF:-1 ,Disney Movies UK
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/32006.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 ,Madina Live
+http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Ayaat TV
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:-1 ,مكة TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:-1 ,Makkah Live
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Iqraa-Tv
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
