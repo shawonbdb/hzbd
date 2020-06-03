@@ -121,6 +121,8 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ,SONY MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,SONY MAX
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/882.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SONY PIX HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ,SONY MOVIES
@@ -129,10 +131,18 @@ http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 ,HBO (Malaysian Sub)
 https://delivery.macan.live/stream/hbo/index.m3u8?token=uLys6&v=20200308
+#EXTINF:-1 ,Movies 24 UK
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/1829?checkedby:iptvcat.com
+#EXTINF:-1 ,STAR MOVIES HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5641.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,STAR MOVIES SD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/17098.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 ,STAR WORLD (INDIA)
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1 ,allmark Movies & Mysteries HD US
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/498?checkedby:iptvcat.com
 #EXTINF:-1 ,AXN HD (INDIA)
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ,AXN (ASIA)
@@ -147,10 +157,14 @@ http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 #EXTINF:-1 ,DISCOVERY TURBO
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 ,ANIMAL PLANET HD. US
+http://disfruta.net:80/live/user23/user23/694.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,ANIMAL PLANET HD HINDI
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1 ,ASIA: ANIMAL PLANET HD
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD US
+http://disfruta.net:80/live/user23/user23/689.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,NATIONAL GEO WILD
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 ,TLC HD  HINDI
@@ -226,11 +240,6 @@ http://globalworldsgreatest.uk:8080/clem13/TSISFsdeIv/73694?checkedby:iptvcat.co
 http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/25961?checkedby:iptvcat.com
 #EXTINF:-1 ,NICK TOONS UK
 http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/1864?checkedby:iptvcat.com
-
-
-#EXTINF:-1 ,VIP STAR MOVIES IN
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5641.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,STAR MOVIES IN
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/17098.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Disney Movies UK
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/32006.m3u8?checkedby:iptvcat.com
+
