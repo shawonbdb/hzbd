@@ -187,7 +187,15 @@ http://45.58.62.92:8080
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 
 
-
-
 #EXTINF:-1 ,Channel News Asia
 http://137.59.155.253:8088/hls/live/vetv_channel_news_asia/index.m3u8
+
+
+#EXTINF:-1 ,Ayaat TV
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:-1 ,مكة TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:-1 ,Iqraa-Tv
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 ,Discovery Kids
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
