@@ -201,7 +201,10 @@ http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 ,Fox Sports 506 HD
 http://45.58.62.92:8080
-
+#EXTINF:-1 ,WWE HD US
+http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/562?checkedby:iptvcat.com
+#EXTINF:-1 ,WWE NETWORK UHD
+http://loginto.live:80/EPJY3St56/K6s2ruk8O0/4289?checkedby:iptvcat.com
 #EXTINF:-1 ,CNN HD
 http://loginto.live:80/EPJY3St56/K6s2ruk8O0/6943?checkedby:iptvcat.com
 #EXTINF:-1 ,CNN INTERNATIONAL
@@ -214,7 +217,6 @@ http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/1777?checkedby:iptvcat.
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1 ,Channel News Asia
 http://137.59.155.253:8088/hls/live/vetv_channel_news_asia/index.m3u8
-
 #EXTINF:-1 ,CARTOON NETWORK HD UK
 http://globalworldsgreatest.uk:8080/clem13/TSISFsdeIv/73710?checkedby:iptvcat.com
 #EXTINF:-1 ,CARTOON NETWORK PAKISTAN
@@ -231,7 +233,6 @@ http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/25961?checkedby:iptvcat
 http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/1864?checkedby:iptvcat.com
 #EXTINF:-1 ,Disney Movies UK
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/32006.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 ,Madina Live
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Ayaat TV
