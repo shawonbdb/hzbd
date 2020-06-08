@@ -7,6 +7,8 @@ https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 ,Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:-1 ,Desh TV-IP
+https://103.220.206.66/live/desh_tv/chunks.m3u8
 #EXTINF:-1 ,ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 ,Star Jalsha
@@ -141,7 +143,7 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/17098.m3u8?check
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 ,STAR WORLD (INDIA)
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:-1 ,allmark Movies & Mysteries HD US
+#EXTINF:-1 ,Hallmark Movies & Mysteries HD US
 http://loginto.live:80/EPJY3St56/K6s2ruk8O0/498?checkedby:iptvcat.com
 #EXTINF:-1 ,AXN HD (INDIA)
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
