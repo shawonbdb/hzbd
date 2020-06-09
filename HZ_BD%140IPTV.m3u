@@ -3,6 +3,8 @@
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 ,Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:-1 ,Desh TV
+http://cdn.bdiptv.design:8081/token/desh/chunks.m3u8?nimblesessionid=696252&wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjAgMzoyOToxMiBQTSZoYXNoX3ZhbHVlPU9jdklDWTRFSFJ2ZkNVdXZNdVNnSVE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 ,ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 ,Star Jalsha
