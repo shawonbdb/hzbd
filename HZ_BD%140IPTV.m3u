@@ -45,6 +45,10 @@ https://edge4.bioscopelive.com/hls/anonymous/i-22Fdzm4hTkSuJAEV0qRQ/1591744803/m
 https://edge4.bioscopelive.com/hls/anonymous/PJCTPV769uSXClVKwhw5DA/1591744974/ananda_tv_low/index.m3u8
 #EXTINF:-1 ,MOHONA TV
 https://103.198.135.229:443/hls/anonymous/JEbYmqNXFmGui4ra2dTS4A/1591745038/mohona_tv_low/index.m3u8
+#EXTINF:-1 ,MOHONA TV2
+https://103.198.135.229:443/hls/mohona_tv_low/index.m3u8
+#EXTINF:-1 ,MOHONA TV3
+https://103.198.135.229:443/hls/mohona_tv/index.m3u8
 #EXTINF:-1 ,RUPOSHI BANGLA
 https://edge4.bioscopelive.com/hls/anonymous/93lXDi40jsNQoUaN37Spug/1591745101/ruposhi_bangla_low/index.m3u8
 #EXTINF:-1 ,Asian TV
