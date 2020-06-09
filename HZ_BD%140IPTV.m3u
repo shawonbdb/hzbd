@@ -7,8 +7,8 @@ https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 ,Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1 ,Desh TV-IP
-https://103.220.206.66/live/desh_tv/chunks.m3u8
+#EXTINF:-1 ,Desh TV-BDIP
+http://bdiptv.com/live-tv/desh-tv.html?key=u3bg7ksovbk3
 #EXTINF:-1 ,ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 ,Star Jalsha
