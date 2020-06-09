@@ -15,6 +15,8 @@ https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 ,Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 ,ATN ISLAMIC TV
+https://edge4.bioscopelive.com/hls/anonymous/sqSE8S2ZevYycQXYxgDeqg/1591745163/atn_islamic_tv_low/index.m3u8
 #EXTINF:-1 ,Banglavision TV
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:-1 ,Boishakhi TV
@@ -35,6 +37,14 @@ https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:-1 ,RTV HD
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:-1 ,MY TV HD
+https://edge4.bioscopelive.com/hls/anonymous/i-22Fdzm4hTkSuJAEV0qRQ/1591744803/my_tv_low/index.m3u8
+#EXTINF:-1 ,ANANDA TV
+https://edge4.bioscopelive.com/hls/anonymous/PJCTPV769uSXClVKwhw5DA/1591744974/ananda_tv_low/index.m3u8
+#EXTINF:-1 ,MOHONA TV
+https://edge4.bioscopelive.com/hls/anonymous/JEbYmqNXFmGui4ra2dTS4A/1591745038/mohona_tv_low/index.m3u8
+#EXTINF:-1 ,RUPOSHI BANGLA
+https://edge4.bioscopelive.com/hls/anonymous/93lXDi40jsNQoUaN37Spug/1591745101/ruposhi_bangla_low/index.m3u8
 #EXTINF:-1 ,Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 ,SA TV
@@ -60,7 +70,7 @@ https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 ,News24 HD
 https://edge4.bioscopelive.com/hls/anonymous/YHkqA-A8SYjJYu7j6R3VOw/1591744511/news_24_hd_low/index.m3u8
 #EXTINF:-1 ,Shangshad Bangladesh
-http://137.59.155.253:8088/hls/SKYNET-SportsHD.m3u8
+https://edge4.bioscopelive.com/hls/anonymous/0YZGTMjlRrSoFcs_cXg_OQ/1591745372/sangsad_tv_low/index.m3u8
 #EXTINF:-1 ,Nagorik TV
 https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 ,Sony 8
@@ -74,7 +84,7 @@ https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1 ,Channel SongsBD
 http://137.59.155.253:8088/hls/channel9tv.m3u8
 #EXTINF:-1 ,ATN MUSIC
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/l_1303639_25278145_4210.ts?nimblesessionid=7256124&wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjAgNDozNDo1MSBQTSZoYXNoX3ZhbHVlPXpGaThBYWtWN0NFL05sRUZybkJYSnc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+https://edge4.bioscopelive.com/hls/anonymous/TcNlTdARxIfjPTbjA5OyjA/1591745323/atn_music.m3u8
 #EXTINF:-1 ,Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 ,Jonack TV
@@ -227,6 +237,8 @@ http://loginto.live:80/EPJY3St56/K6s2ruk8O0/28606?checkedby:iptvcat.com
 http://51.52.156.22:8888/http/004?checkedby:iptvcat.com
 #EXTINF:-1 ,BBC News HD UK
 http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/1777?checkedby:iptvcat.com
+#EXTINF:-1 ,AL JAZEERA
+https://edge4.bioscopelive.com/hls/anonymous/wXOAyzN-YEyQzEOzrXVcJQ/1591745226/al_jazeera_low/index.m3u8
 #EXTINF:-1 ,CBS SPORTS HD (Azerbaijan)
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1 ,Channel News Asia
@@ -241,6 +253,8 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Disney CHANNEL HD UK
 http://globalworldsgreatest.uk:8080/clem13/TSISFsdeIv/73694?checkedby:iptvcat.com
+#EXTINF:-1 ,NICKELODEON
+https://edge4.bioscopelive.com/hls/anonymous/1RgD15Nacr9d9HGl4SUk5Q/1591744733/nickelodeon_low/index.m3u8
 #EXTINF:-1 ,NICK PAKISTAN
 http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/25961?checkedby:iptvcat.com
 #EXTINF:-1 ,NICK TOONS UK
