@@ -8,9 +8,13 @@ https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 ,Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:-1 ,Desh TV-BP2
-http://bdiptv.com/e756cbca-a883-41e1-b568-ae68c4409d2e
+https://bd.bdiptv.design:8081/web/desh/chunks.m3u8?nimblesessionid=7695212
 #EXTINF:-1 ,Desh TV-3
-http://bd.bdiptv.design:8081/web/desh/chunks.m3u8?nimblesessionid=7694910
+http://bd.bdiptv.design:8081/web/desh/chunks.m3u8?nimblesessionid=7695212
+#EXTINF:-1 ,Desh TV-BP4
+https://bd.bdiptv.design:8081/web/desh/chunks.m3u8
+#EXTINF:-1 ,Desh TV-1
+http://bd.bdiptv.design:8081/web/desh/chunks.m3u8
 #EXTINF:-1 ,ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 ,Star Jalsha
