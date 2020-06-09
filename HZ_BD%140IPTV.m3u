@@ -17,6 +17,8 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 ,ATN ISLAMIC TV
 https://edge4.bioscopelive.com/hls/anonymous/sqSE8S2ZevYycQXYxgDeqg/1591745163/atn_islamic_tv_low/index.m3u8
+#EXTINF:-1 ,EKUSHE TV
+https://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,Banglavision TV
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:-1 ,Boishakhi TV
