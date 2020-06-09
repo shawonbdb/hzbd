@@ -26,7 +26,7 @@ https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 ,Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 ,GAZI TV
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://103.144.200.7:8080/hls/bgazitv/index.m3u8
 #EXTINF:-1 ,Maasranga TV
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 ,Channel 9
