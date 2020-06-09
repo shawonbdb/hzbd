@@ -66,7 +66,7 @@ https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1 ,Channel SongsBD
 http://137.59.155.253:8088/hls/channel9tv.m3u8
 #EXTINF:-1 ,ATN MUSIC
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8?nimblesessionid=7256124&wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjAgNDozNDo1MSBQTSZoYXNoX3ZhbHVlPXpGaThBYWtWN0NFL05sRUZybkJYSnc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:-1 ,Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 ,Jonack TV
