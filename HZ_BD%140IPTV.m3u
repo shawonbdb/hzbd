@@ -62,7 +62,7 @@ https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1 ,Somoy News
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 ,Jamuna TV HD
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+http://103.144.200.7:8080/hls/jamunatv/index.m3u8
 #EXTINF:-1 ,DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 ,Shangshad Bangladesh
