@@ -3,8 +3,6 @@
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 ,Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 ,koiteparina
-https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/2500.m3u8
 #EXTINF:-1 ,ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 ,Star Jalsha HD
@@ -127,6 +125,8 @@ https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 ,Star Gold SD
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
+#EXTINF:-1 ,SUN TV HD
+https://d3t34m8y8rh0vb.cloudfront.net/preview/suntvhd/2500.m3u8
 #EXTINF:-1 ,SONY TV HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ,SONY SAB HD 
