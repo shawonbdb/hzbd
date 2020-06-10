@@ -166,23 +166,17 @@ https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=e
 #EXTINF:-1 ,SONY MOVIES
 http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
 #EXTINF:-1 ,Fox Action Movies
-http://103.135.208.14/live/ibox/bd/65.m3u8
+http://http://103.135.208.14/live/ibox/bd/136.m3u8
 #EXTINF:-1 ,HBO (UK)
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 ,HBO (Malaysian Sub)
 https://delivery.macan.live/stream/hbo/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1 ,Movies 24 UK
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/1829?checkedby:iptvcat.com
-#EXTINF:-1 ,STAR MOVIES HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5641.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,STAR MOVIES SD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/17098.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,STAR MOVIES
+http://103.135.208.14/live/ibox/bd/101.m3u8
 #EXTINF:-1 ,Star World
 http://103.135.208.14/live/ibox/bd/66.m3u8
 #EXTINF:-1 ,STAR WORLD_02
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
-#EXTINF:-1 ,Hallmark Movies & Mysteries HD US
-http://loginto.live:80/EPJY3St56/K6s2ruk8O0/498?checkedby:iptvcat.com
 #EXTINF:-1 ,&flix HD
 http://103.135.208.14/live/ibox/bd/125.m3u8
 #EXTINF:-1 ,MNX
@@ -211,8 +205,8 @@ http://103.135.208.14/live/ibox/bd/93.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1 ,ASIA: ANIMAL PLANET HD
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD US
-http://disfruta.net:80/live/user23/user23/689.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,NAT GEO WILD_BDIX
+http://103.135.208.14/live/ibox/bd/60.m3u8
 #EXTINF:-1 ,NAT GEO WILD
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 ,NAT GEO WILD
@@ -237,12 +231,10 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 http://103.135.208.14/live/ibox/bd/130.m3u8
 #EXTINF:-1 ,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,NASA TV HD US
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/82798?checkedby:iptvcat.com
 #EXTINF:-1 ,DIVA Channel
 http://103.135.208.14/live/ibox/bd/114.m3u8
 #EXTINF:-1 ,Sony Six
-http://137.59.155.253:8088/hls/Sony-Six.m3u8
+http://103.135.208.14/live/ibox/bd/96.m3u8
 #EXTINF:-1 ,Sony ESPN
 http://103.135.208.14/live/ibox/bd/97.m3u8
 #EXTINF:-1 ,Sony Ten-1
@@ -273,46 +265,30 @@ http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 ,Fox Sports 506 HD
 http://45.58.62.92:8080
-#EXTINF:-1 ,WWE HD US
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/562?checkedby:iptvcat.com
-#EXTINF:-1 ,WWE NETWORK UHD
-http://loginto.live:80/EPJY3St56/K6s2ruk8O0/4289?checkedby:iptvcat.com
 #EXTINF:-1 ,CNN
 http://103.135.208.14/live/ibox/bd/106.m3u8
 #EXTINF:-1 ,BBC News
 http://103.135.208.14/live/ibox/bd/68.m3u8
-#EXTINF:-1 ,BBC News HD UK
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/1777?checkedby:iptvcat.com
 #EXTINF:-1 ,ALJAZEERA
 http://103.135.208.14/live/ibox/bd/95.m3u8
 #EXTINF:-1 ,Euro News
 http://103.135.208.14/live/ibox/bd/104.m3u8
 #EXTINF:-1 ,CBS SPORTS HD (Azerbaijan)
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
-#EXTINF:-1 ,Channel News Asia
-http://137.59.155.253:8088/hls/live/vetv_channel_news_asia/index.m3u8
 #EXTINF:-1 ,Sony YAY Bangla
 http://103.135.208.14/live/ibox/bd/98.m3u8
 #EXTINF:-1 ,NICK Bangla
 http://103.135.208.14/live/ibox/bd/57.m3u8
+#EXTINF:-1 ,NICKELODEON
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 ,DISCOVERY KIDS
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:-1 ,DISNEY JUNIOR IN
+#EXTINF:-1 ,DISNEY JUNIOR ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,CBeebies BBC
 http://103.135.208.14/live/ibox/bd/117.m3u8
-#EXTINF:-1 ,NICKELODEON
-https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 ,NICK PAKISTAN
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/25961?checkedby:iptvcat.com
-#EXTINF:-1 ,NICK TOONS UK
-http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/1864?checkedby:iptvcat.com
-#EXTINF:-1 ,Disney Movies UK
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/32006.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Madina Live
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Ayaat TV
-http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1 ,مكة TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
 #EXTINF:-1 ,Makkah Live
