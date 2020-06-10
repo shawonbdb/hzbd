@@ -58,9 +58,7 @@ https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 ,Ekattor TV HD
 http://137.59.155.253:8088/hls/live/vetv_ekattor_tv/index.m3u8
 #EXTINF:-1 ,Ekattor TV HD
-https://edge4.bioscopelive.com/hls/anonymous/8hRSO107gWjgxu2_8P992w/1591744629/ekattur_tv_low/index.m3u8
-#EXTINF:-1 ,Ekattor TV HD_2
-https://live.bongobd.com/hls/vpWFAqW73qz2vQGCPRfsnw/1591753720/ekattur_tv_low/index.m3u8
+http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1 ,Ekattor TV
 https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #EXTINF:-1 ,Channel 24
@@ -74,7 +72,7 @@ http://103.144.200.7:8080/hls/jamunatv/index.m3u8
 #EXTINF:-1 ,DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 ,News24 HD
-https://edge4.bioscopelive.com/hls/anonymous/YHkqA-A8SYjJYu7j6R3VOw/1591744511/news_24_hd_low/index.m3u8
+http://175.41.46.16:8081/hls/9.m3u8
 #EXTINF:-1 ,Shangshad Bangladesh
 https://edge4.bioscopelive.com/hls/anonymous/0YZGTMjlRrSoFcs_cXg_OQ/1591745372/sangsad_tv_low/index.m3u8
 #EXTINF:-1 ,Nagorik TV
