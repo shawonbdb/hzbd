@@ -37,6 +37,8 @@ https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1 ,Channel 9_dgiinin
 http://tvserver2.roarzone.info:8081/4/index.m3u8?token=9104f7dedc7de5fade01c20441bd920a3ea68fd9-1a7983fbee0647f87b02cee5145b8aba-1591755879-1591745079
+#EXTINF:-1 ,Channel 9_dgi
+http://tvserver2.roarzone.info:8081/4/index.m3u8
 #EXTINF:-1 ,BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:-1 ,RTV HD
