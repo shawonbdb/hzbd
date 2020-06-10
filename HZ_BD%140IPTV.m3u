@@ -35,8 +35,8 @@ http://103.144.200.7:8080/hls/bgazitv/index.m3u8
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 ,Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 ,Channel 9_edge
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:-1 ,Channel 9_dgiinin
+http://tvserver2.roarzone.info:8081/4/index.m3u8?token=9104f7dedc7de5fade01c20441bd920a3ea68fd9-1a7983fbee0647f87b02cee5145b8aba-1591755879-1591745079&remote=92.116.51.175
 #EXTINF:-1 ,BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:-1 ,RTV HD
@@ -260,7 +260,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.
 #EXTINF:-1 ,Disney CHANNEL HD UK
 http://globalworldsgreatest.uk:8080/clem13/TSISFsdeIv/73694?checkedby:iptvcat.com
 #EXTINF:-1 ,NICKELODEON
-https://edge4.bioscopelive.com/hls/anonymous/1RgD15Nacr9d9HGl4SUk5Q/1591744733/nickelodeon_low/index.m3u8
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 ,NICK PAKISTAN
 http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/25961?checkedby:iptvcat.com
 #EXTINF:-1 ,NICK TOONS UK
