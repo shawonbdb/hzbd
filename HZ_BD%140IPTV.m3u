@@ -11,7 +11,7 @@ http://iboxbd.live/live/ibox/bd/33.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_movies.png",Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bangla",Zee Bangla
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bangla.jpg",Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_bangla.png",Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
