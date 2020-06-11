@@ -203,7 +203,7 @@ http://iboxbd.live/live/ibox/bd/93.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asia_animal_planet_hd.png",ASIA: ANIMAL PLANET HD
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",NAT GEO WILD HD (BDIX)
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_wild_hd.png",NAT GEO WILD HD (BDIX)
 http://iboxbd.live/live/ibox/bd/60.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tlc_hd_hindi.png",TLC HD  HINDI
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p4.m3u8
@@ -253,15 +253,15 @@ http://iboxbd.live/live/ibox/bd/83.m3u8
 http://iboxbd.live/live/ibox/bd/9.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ptv_sports.png",PTV Sports
 http://iboxbd.live/live/ibox/bd/84.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ptv_sports.png",PTV Sports Alternative
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/d_sports.png",D sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dd_sports.png",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",PTV Sports
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Edge Sports
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/edge_sport.png",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Fox Sports 506 HD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_sports_506_hd.png",Fox Sports 506 HD
 http://45.58.62.92:8080
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",CNN
 http://iboxbd.live/live/ibox/bd/106.m3u8
