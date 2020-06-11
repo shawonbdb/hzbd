@@ -143,63 +143,63 @@ http://iboxbd.live/live/ibox/bd/134.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_hd.png",STAR GOLD HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Star Gold SD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold.png",Star Gold SD
 http://iboxbd.live/live/ibox/bd/129.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Star Gold-2 SD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_2.png",Star Gold-2 SD
 http://iboxbd.live/live/ibox/bd/99.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Star Bharat
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_bharat.png",Star Bharat
 http://iboxbd.live/live/ibox/bd/50.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",UTV Action
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/utv_movies.png",UTV Movies
 http://iboxbd.live/live/ibox/bd/7.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",HUM TV Pakistan
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hum_mabala.png",HUM Mabala Pakistan
 http://iboxbd.live/live/ibox/bd/49.m3u8
-#EXTINF:-1 ,SONY TV HD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_tv_hd.png",SONY TV HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,SONY SAB HD 
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_sub_hd.jpg",SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,SONY MAX HD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_hd.png",SONY MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,SONY MAX SD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_sd.png",SONY MAX SD
 http://iboxbd.live/live/ibox/bd/44.m3u8
-#EXTINF:-1 ,SONY PIX HD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_pix_hd.png",SONY PIX HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,SONY MOVIES
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_movies.png",SONY MOVIES
 http://145.239.255.4:8080/en-sonymovies/mono.m3u8?token=test
-#EXTINF:-1 ,Fox Action Movies
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_action_movies.png",Fox Action Movies
 http://iboxbd.live/live/ibox/bd/136.m3u8
-#EXTINF:-1 ,HBO (UK)
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg",HBO (UK)
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 ,HBO (Malaysian Sub)
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_malaysia.jpg",HBO (Malaysian Sub)
 https://delivery.macan.live/stream/hbo/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1 ,STAR MOVIES
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_movies.png",STAR MOVIES
 http://iboxbd.live/live/ibox/bd/101.m3u8
-#EXTINF:-1 ,Star World
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_world.png",Star World
 http://iboxbd.live/live/ibox/bd/66.m3u8
-#EXTINF:-1 ,STAR WORLD_02
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_world_alternative.png",STAR WORLD_Alternative
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
-#EXTINF:-1 ,&flix HD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&flix_hd.jpg",&flix HD
 http://iboxbd.live/live/ibox/bd/125.m3u8
-#EXTINF:-1 ,MNX
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/mnx.png",MNX
 http://iboxbd.live/live/ibox/bd/70.m3u8
-#EXTINF:-1 ,Lotus Macau
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/lotus_macau.png",Lotus Macau
 http://iboxbd.live/live/ibox/bd/69.m3u8
-#EXTINF:-1 ,Movies Now
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Movies Now
 http://iboxbd.live/live/ibox/bd/71.m3u8
-#EXTINF:-1 ,AXN
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",AXN
 http://iboxbd.live/live/ibox/bd/135.m3u8
-#EXTINF:-1 ,AXN HD (INDIA)
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",AXN HD (INDIA)
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,AXN (ASIA)
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",AXN (ASIA)
 http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 ,ID: DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",ID: DISCOVERY CHANNEL HD
 https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=uLys6&v=20200308
-#EXTINF:-1 ,DISCOVERY HINDI 
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",DISCOVERY HINDI 
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
-#EXTINF:-1 ,DISCOVERY SCIENCE HINDI
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",DISCOVERY SCIENCE HINDI
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
-#EXTINF:-1 ,DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",DISCOVERY TURBO
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 ,ANIMAL PLANET HD BDIX
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",ANIMAL PLANET HD BDIX
 http://iboxbd.live/live/ibox/bd/93.m3u8
 #EXTINF:-1 ,ANIMAL PLANET HD HINDI
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
