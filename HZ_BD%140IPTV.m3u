@@ -21,6 +21,8 @@ https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-1
 http://iboxbd.live/live/ibox/bd/132.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_sunnah_madinah_live.png",Saudi Madinah Live
 http://iboxbd.live/live/ibox/bd/133.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/مكة _tv.png",مكة TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bijoy_tv.png",Bijoy TV
 http://iboxbd.live/live/ibox/bd/30.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ekushey_tv.png",Ekushey TV
@@ -273,23 +275,23 @@ http://iboxbd.live/live/ibox/bd/68.m3u8
 http://iboxbd.live/live/ibox/bd/95.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/euro_news.png",Euro News
 http://iboxbd.live/live/ibox/bd/104.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Sony YAY Bangla
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_yay!.jpg",Sony YAY! Bangla
 http://iboxbd.live/live/ibox/bd/98.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",NICK Bangla
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nick_bangla.png",NICK Bangla
 http://iboxbd.live/live/ibox/bd/57.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",NICKELODEON
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nick_bangla2.png",NICK
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/discovery_kids.png",DISCOVERY KIDS
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",DISNEY JUNIOR ID
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/disney_junior.png",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",CBeebies BBC
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cbeebies_bbc.png",CBeebies BBC
 http://103.135.208.14/live/ibox/bd/117.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Madina Live
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_quran_makkah_live.png",Saudi Makkah Live 2
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",مكة TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Makkah Live
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_sunnah_madinah_live.png",Saudi Madinah Live 2
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Iqraa-Tv
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/مكة _tv.png",مكة TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tabie_tv.jpg",Iqraa-Tv
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
