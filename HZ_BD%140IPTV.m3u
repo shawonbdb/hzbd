@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 ,NTV
+#EXTINF:-1 tvg-logo="http://concordrope.com/hzbd-iptv/logo/ntv.png",NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 ,Channel I
+#EXTINF:-1 tvg-logo="http://concordrope.com/hzbd-iptv/logo/channel_i",Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 ,ATN Bangla
+#EXTINF:-1 tvg-logo="http://concordrope.com/hzbd-iptv/logo/atn_bangla",ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 ,Desh TV
+#EXTINF:-1 tvg-logo="http://concordrope.com/hzbd-iptv/logo/deshtv",Desh TV
 http://iboxbd.live/live/ibox/bd/33.m3u8
 #EXTINF:-1 ,Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
