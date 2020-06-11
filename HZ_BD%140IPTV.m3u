@@ -125,23 +125,23 @@ http://iboxbd.live/live/ibox/bd/115.m3u8
 http://iboxbd.live/live/ibox/bd/128.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zeetv.png",ZEE TV SD
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",ZEE CINEMA HD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png",ZEE CINEMA HD
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",ZEE CINEMA SD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png",ZEE CINEMA SD
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",ZEE BOLLYWOOD SD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bollywood.png",ZEE BOLLYWOOD SD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",BollyWood Serial HD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bollywood_serial.jpg",BollyWood Serial HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",GEM BOLLYWOOD 
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/gem_bollywood.png",GEM BOLLYWOOD 
 http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Manoranjan TV
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/manoranjan_tv.jpg",Manoranjan TV
 http://103.144.200.7:8080/hls/manorj/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",STAR PLUS HD 
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_plus_hd.png",STAR PLUS HD 
 http://iboxbd.live/live/ibox/bd/134.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Star Plus SD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_plus.png",Star Plus SD
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",STAR GOLD HD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_hd.png",STAR GOLD HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Star Gold SD
 http://iboxbd.live/live/ibox/bd/129.m3u8
