@@ -263,6 +263,8 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_sports_506_hd.png",Fox Sports 506 HD
 http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cbc_sports",CBC SPORTS (Azerbaijan)
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cnn.png",CNN
 http://iboxbd.live/live/ibox/bd/106.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bbc_world_news.png",BBC World News
@@ -271,8 +273,6 @@ http://iboxbd.live/live/ibox/bd/68.m3u8
 http://iboxbd.live/live/ibox/bd/95.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/euro_news.png",Euro News
 http://iboxbd.live/live/ibox/bd/104.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",CBS SPORTS HD (Azerbaijan)
-https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",Sony YAY Bangla
 http://iboxbd.live/live/ibox/bd/98.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/",NICK Bangla
