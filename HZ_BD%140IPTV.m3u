@@ -265,7 +265,7 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_sports_506_hd.png",Fox Sports 506 HD
 http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cbc_sports",CBC SPORTS (Azerbaijan)
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cbc_sports_hd.png",CBC SPORTS (Azerbaijan)
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cnn.png",CNN
 http://iboxbd.live/live/ibox/bd/106.m3u8
