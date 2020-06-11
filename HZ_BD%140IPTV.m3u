@@ -48,7 +48,7 @@ https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:-1 ,MY TV HD
 http://iboxbd.live/live/ibox/bd/28.m3u8
 #EXTINF:-1 ,MOHONA TV
-http://103.135.208.14/live/ibox/bd/89.m3u8
+http://iboxbd.live/live/ibox/bd/89.m3u8
 #EXTINF:-1 ,Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 ,SA TV
@@ -122,7 +122,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 ,Colors SD
 http://iboxbd.live/live/ibox/bd/115.m3u8
 #EXTINF:-1 ,Colors Rishtey
-http://103.135.208.14/live/ibox/bd/128.m3u8
+http://iboxbd.live/live/ibox/bd/128.m3u8
 #EXTINF:-1 ,ZEE TV SD
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
@@ -184,7 +184,7 @@ http://iboxbd.live/live/ibox/bd/70.m3u8
 #EXTINF:-1 ,Lotus Macau
 http://iboxbd.live/live/ibox/bd/69.m3u8
 #EXTINF:-1 ,Movies Now
-http://103.135.208.14/live/ibox/bd/71.m3u8
+http://iboxbd.live/live/ibox/bd/71.m3u8
 #EXTINF:-1 ,AXN
 http://iboxbd.live/live/ibox/bd/135.m3u8
 #EXTINF:-1 ,AXN HD (INDIA)
