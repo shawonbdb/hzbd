@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ntv.png",NTV
+http://87.117.234.51:8554/pose/bijoytv/chunks.m3u8?nimblesessionid=30270762&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjAgMTA6NTU6MDMgUE0maGFzaF92YWx1ZT1QWVBTbUZYOURoSHduT2Z2TnpXTTdRPT0mdmFsaWRtaW51dGVzPTI=
