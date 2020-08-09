@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 ,01
-http://tvserver.dflix.live:8082/77/index.m3u8
-#EXTINF:-1 ,02
-http://tvserver.dflix.live:8082/1/index.m3u8
+http://tvserver.dflix.live:8082/77/index.m3u8?token=3c414dd79624e85f2d043c9b6b0fca169dca5543-c8cfdb17e31eacd92f7e2d377c157d52-1597024617-1597013817
 #EXTINF:-1 ,03
 http://tvserver.dflix.live:8082/1/index.m3u8?token=3c414dd79624e85f2d043c9b6b0fca169dca5543-c8cfdb17e31eacd92f7e2d377c157d52-1597024617-1597013817
