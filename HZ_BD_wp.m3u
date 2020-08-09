@@ -1,12 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:262
-#EXTINF:6,
-l_16870_11772040_262.ts?nimblesessionid=1517894
-#EXTINF:6,
-l_16870_11778040_263.ts?nimblesessionid=1517894
-#EXTINF:6,
-l_16870_11784040_264.ts?nimblesessionid=1517894
-#EXTINF:6,
-l_16870_11790040_265.ts?nimblesessionid=1517894
+#EXTINF:-1 ,01
+http://tvserver.dflix.live:8082/77/index.m3u8
+#EXTINF:-1 ,02
+http://tvserver.dflix.live:8082/1/index.m3u8
+#EXTINF:-1 ,03
+http://tvserver.dflix.live:8082/1/index.m3u8?token=3c414dd79624e85f2d043c9b6b0fca169dca5543-c8cfdb17e31eacd92f7e2d377c157d52-1597024617-1597013817
