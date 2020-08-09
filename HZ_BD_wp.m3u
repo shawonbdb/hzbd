@@ -1,24 +1,12 @@
 #EXTM3U
-#EXTINF:-1 ,Citv
-http://51.52.156.22:8888/http/001
-#EXTINF:-1 ,CBeebies BBC
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 ,BBC News UK
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 ,itv2
-http://51.52.156.22:8888/http/005
-#EXTINF:-1 ,itv3
-http://51.52.156.22:8888/http/006
-#EXTINF:-1 ,Movies 01
-http://51.52.156.22:8888/http/008
-#EXTINF:-1 ,Sony Movies Action
-http://51.52.156.22:8888/http/009
-#EXTINF:-1 ,Documentry 01
-http://51.52.156.22:8888/http/011
-#EXTINF:-1 ,00000
-http://51.52.156.22:8888/http/012
-#EXTINF:-1 ,PBS America
-http://51.52.156.22:8888/http/013
-#EXTINF:-1 ,00000
-http://51.52.156.22:8888/http/014
-#EXTINF:-1 ,00000
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:262
+#EXTINF:6,
+l_16870_11772040_262.ts?nimblesessionid=1517894
+#EXTINF:6,
+l_16870_11778040_263.ts?nimblesessionid=1517894
+#EXTINF:6,
+l_16870_11784040_264.ts?nimblesessionid=1517894
+#EXTINF:6,
+l_16870_11790040_265.ts?nimblesessionid=1517894
