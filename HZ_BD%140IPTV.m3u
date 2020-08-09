@@ -152,7 +152,7 @@ http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_movies.png",STAR MOVIES
 http://iboxbd.live/live/ibox/bd/101.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_world.png",Star World
-http://iboxbd.live/live/ibox/bd/66.m3u8
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_world_alternative.png",STAR WORLD_Alternative
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&flix_hd.jpg",&flix HD
@@ -169,40 +169,36 @@ http://210.210.155.66/h/h141/02.m3u8
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/axn_asia.png",AXN (ASIA)
 http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/discovery_hindi.jpg",DISCOVERY HINDI 
-http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/discovery_science.png",DISCOVERY SCIENCE HINDI
-http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/discovery_turbo.png",DISCOVERY TURBO
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/animal_planet_bdix.png",ANIMAL PLANET HD BDIX
-http://iboxbd.live/live/ibox/bd/93.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/animal_planet_hd_hindi.png",ANIMAL PLANET HD HINDI
-http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asia_animal_planet_hd.png",ASIA: ANIMAL PLANET HD
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_wild_hd.png",NAT GEO WILD HD (BDIX)
-http://iboxbd.live/live/ibox/bd/60.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tlc_hd_hindi.png",TLC HD  HINDI
-http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p4.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_wild_hd.png",National Geographic
+https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_wild_hd.png",Nat Geo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_wild_hd.png",Nat Geo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tlc_hd.png",TLC HD
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tlc_asia.png",ASIA: TLC 
-http://136.243.177.164/TLC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fyi_18.png",fyi TV 18 HD
-http://iboxbd.live/live/ibox/bd/73.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dw_tv.png",DW TV
-http://iboxbd.live/live/ibox/bd/105.m3u8
-EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nhk_world_japan.png",NHK World Japan
-http://103.135.208.14/live/ibox/bd/75.m3u8
+https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/history_tv_hd.png",HISTORY HD
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bbc_lifestyle.png",BBC Lifestyle
-http://iboxbd.live/live/ibox/bd/130.m3u8
+#EXTINF:-1 ,FOX Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nasa_tv.png",NASA TV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/diva_universal.png",DIVA Universal
-http://iboxbd.live/live/ibox/bd/114.m3u8
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/diva_universal.png",Comedy Central
+https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_six.png",Sony Six
 http://iboxbd.live/live/ibox/bd/96.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_espn.png",Sony ESPN
