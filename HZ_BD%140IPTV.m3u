@@ -135,7 +135,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_2.png",STAR GOLD2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sstar_bharat.png",Star Bharat
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_bharat.png",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/utv_action.png",UTV Action - BDIX
 http://tv.mymoviebazar.net:8081/hls/tsl-7.m3u8
@@ -253,7 +253,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tabie_tv.jpg",Tabie TV
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tabie_tv.jpg",ARY Q TV -BDIX
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ary_qtv.png",ARY Q TV -BDIX
 http://tv.mymoviebazar.net:8081/hls/new10.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_quran_makkah_live.png",Iqraa Television - BDIX
 http://tv.mymoviebazar.net:8081/hls/new11.m3u8
