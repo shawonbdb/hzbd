@@ -103,97 +103,25 @@ http://tv.mymoviebazar.net:8081/hls/new22.m3u8
 http://tv.mymoviebazar.net:8081/hls/new23.m3u8
 #EXTINF:-1 , BTV
 http://tv.mymoviebazar.net:8081/hls/new24.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Animal Planet HD
 http://tv.mymoviebazar.net:8081/hls/tsl-1.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , &Pictures
 http://tv.mymoviebazar.net:8081/hls/tsl-2.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Channel Blocked by message
 http://tv.mymoviebazar.net:8081/hls/tsl-3.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Sony Sab
 http://tv.mymoviebazar.net:8081/hls/tsl-4.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Zee TV
 http://tv.mymoviebazar.net:8081/hls/tsl-5.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 ,&TV
 http://tv.mymoviebazar.net:8081/hls/tsl-6.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , UTV Action
 http://tv.mymoviebazar.net:8081/hls/tsl-7.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Star Movies
 http://tv.mymoviebazar.net:8081/hls/tsl-8.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-9.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-10.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-11.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-12.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-13.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-14.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-15.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-16.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-17.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-18.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-19.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-20.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-21.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-22.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-23.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-24.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-25.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-26.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-27.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-28.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-29.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-30.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-31.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-32.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-33.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-34.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-35.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-36.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-37.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-38.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-39.m3u8
-#EXTINF:-1 ,
-http://tv.mymoviebazar.net:8081/hls/tsl-40.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 , RTV 
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
+#EXTINF:-1 , Sony TV HD
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+#EXTINF:-1 , 
+http://
