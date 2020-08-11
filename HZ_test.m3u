@@ -1,261 +1,161 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ntv.png",NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png",Channel I
-https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/atn_bangla.png",ATN Bangla
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/desh_tv.jpeg",Desh TV
-https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_hd.png",Star Jalsha HD
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_movies.png",Star Jalsha Movies
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bangla.jpg",Zee Bangla
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_bangla.png",Colors Bangla
-https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/madina_bangla.png",Madina Bangla - BDIX Bangla
-http://tv.mymoviebazar.net:8081/hls/new9.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/peacetv_bangla.jpeg",Peace TV Bangla
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_quran_makkah_live.png",Iqraa Television - BDIX
-http://tv.mymoviebazar.net:8081/hls/new11.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_sunnah_madinah_live.png",Filmon TV-BDIX
-http://tv.mymoviebazar.net:8081/hls/new15.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/مكة _tv.png",Makkah TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bijoy_tv.png",Bijoy TV
-https://itpolly.iptv.digijadoo.net/live/bijoy_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ekushey_tv.png",Ekushey TV
-https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bangla_vision.png",Banglavision TV
-https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/boishakhi_tv.png",Boishakhi TV
-https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/deepto_tv.jpeg",Deepto TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/duronto_tv.jpg",Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/gtv_bd.png",Gazi TV
-http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/maasranga_tv.jpg",Maasranga TV
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_9.jpg",Channel 9
-https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/btv_world.png",BTV World
-https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/rtv.png",RTV HD
-https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/mytv.png",MY TV HD
-https://itpolly.iptv.digijadoo.net/live/my_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/mohona_tv.jpeg",Mohona TV
-https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ruposhi_bangla.png",Ruposhi Bangla
-https://itpolly.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asian_tv.png",Asian TV
-https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/satv.png",SA TV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/atn_news.jpg",ATN News
-https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ekattor_tv.png",Ekattor TV
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_24.png",Channel 24
-https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/independent_tv.png",Independent TV
-https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/shomoy_tv.png",Somoy TV
-https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/independent.png",Jamuna TV
-https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dbc_news.png",DBC News
-https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/news24.png",News24 HD - BDIX
-http://tv.mymoviebazar.net:8081/hls/live4.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/news24.png",News24 HD
-https://itpolly.iptv.digijadoo.net/live/news24_bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/shangshad_bangladesh.png",Shansad Bangladesh
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nagorik_tv.png",Nagorik TV - BDIX
-http://tv.mymoviebazar.net:8081/hls/new16.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nagorik_tv.png",Nagorik TV
-https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/shopno_tv.png",Shopno TV
-http://43.231.22.238:8081/SHOPNO/shopnotv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_8.png",Sony 8
-https://itpolly.iptv.digijadoo.net/live/sony_aath/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/abp_ananda.jpg",ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/assam_talks.png",Assam Talks
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/gb_tv.png",Gaan Bangla
-https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sangeet_bangla.png",Sangeet Bangla
-https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/jonack.png",Jonack TV
-http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zing.png",Zing
-https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zoom.png",Zoom
-https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/mastiii.png",Mastiii
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/music_india.png",Music India
-https://itpolly.iptv.digijadoo.net/live/music_india/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/b4u_movies.png",B4U Music
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/boogle_bollywood.png",Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/mtv_beats.png",MTV Beats
-https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/music_box.png",MUSIC BOX 
-http://hls.clubplus.eu/ch09/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_hd.png",Colors HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_risthey.png",Colors Rishtey
-https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zeetv.png",ZEE TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png",ZEE CINEMA
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png",ZEE CINEMA HD
-http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bollywood.png",ZEE BOLLYWOOD SD
-https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/gem_bollywood.png",GEM BOLLYWOOD Pakistan
-http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/manoranjan_tv.jpg",Manoranjan TV
-https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_plus_hd.png",STAR PLUS HD 
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_plus.png",Star Plus SD
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_hd.png",STAR GOLD HD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_2.png",STAR GOLD2
-https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sstar_bharat.png",Star Bharat
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/utv_action.png",UTV Action - BDIX
-http://tv.mymoviebazar.net:8081/hls/tsl-7.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&pictures.png",&Pictures - BDIX
-http://tv.mymoviebazar.net:8081/hls/tsl-2.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_tv_hd.png",SONY TV HD
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_sub_hd.jpg",SONY SAB - BDIX
-http://tv.mymoviebazar.net:8081/hls/tsl-4.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_hd.png",SONY MAX HD
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_sd.png",SONY MAX -BDIX
-http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_pix_hd.png",SONY PIX HD
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_movies.png",SONY MOVIES
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_action_movies.png",Fox Action Movies
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg",HBO - BDIX
-http://tv.mymoviebazar.net:8081/hls/new13.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg",HBO 2 - BDIX
-http://otv.ftpbd.net/streams/111/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg",HBO (UK)
-http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_movies.png",STAR MOVIES - BDIX
-http://tv.mymoviebazar.net:8081/hls/tsl-8.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_world.png",Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&flix_hd.jpg",&Flix - BDIX
-http://tv.mymoviebazar.net:8081/hls/new21.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/lotus_macau.png",Lotus Macau - BDIX
-http://tv.mymoviebazar.net:8081/hls/new22.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/axn_asia.png",AXN (ASIA)
-http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asia_animal_planet_hd.png",ASIA: ANIMAL PLANET HD
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asia_animal_planet_hd.png",ASIA: ANIMAL PLANET HD - BDIX
-http://tv.mymoviebazar.net:8081/hls/tsl-1.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/national_geographic.png",National Geographic
-https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_wild_hd.png",Nat Geo Wild
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_people.png",Nat Geo People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tlc_hd.png",TLC HD
-https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dw_tv.png",DW TV
-https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/history_tv_hd.png",HISTORY HD
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_life.png",FOX Life
-https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nasa_tv.png",NASA TV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/comedy_central.png",Comedy Central
-https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sky_net_sport_1.png",SkyNet Sports 1 - BDIX
-http://tv.mymoviebazar.net:8081/hls/new1.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_six.png",Sony Six - BDIX
-http://otv.ftpbd.net/streams/106/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_espn.png",Sony ESPN
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_1_hd.png",Sony Ten-1 - BDIX
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/101/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/102/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/103/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 ,
 http://otv.ftpbd.net/streams/105/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_2_hd.png",Sony Ten-2 HD - BDIX
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1 ,
 http://otv.ftpbd.net/streams/112/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_3_hd.png",Sony Ten-3 HD
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_hd_1.jpg",Star Sports 1 HD - BDIX
-http://tv.mymoviebazar.net:8081/hls/new2.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_hd_2.jpg",Star Sports 2 HD - BDIX
-http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_select_1_hd.jpg",Star Sports Select-1 HD - BDIX
+#EXTINF:-1 ,
 http://otv.ftpbd.net/streams/113/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_select_2_hd.jpg",Star Sports Select-2 HD - BDIX
+#EXTINF:-1 ,
 http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ptv_sports.png",PTV Sports
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/d_sports.png",D sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dd_sports.png",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/edge_sport.png",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_sports_506_hd.png",Fox Sports 506 HD
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cbc_sports_hd.png",CBC SPORTS (Azerbaijan)
-https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cnn.png",CNN - BDIX
-http://tv.mymoviebazar.net:8081/hls/new19.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bbc_world_news.png",BBC World News - BDIX
-http://tv.mymoviebazar.net:8081/hls/new18.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bbc_lifestyle.png",BBC Lifestyle
-https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/aljazeera.png",ALJAZEERA - BDIX
-http://tv.mymoviebazar.net:8081/hls/new17.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hum_news.png",Hum News
-http://95.211.211.168/live/humnews0189/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cartoon_network.png",Cartoon Network HD - BDIX
-http://tv.mymoviebazar.net:8081/hls/new14.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/disney_channel.png",DISNEY Channel - BDIX
-http://tv.mymoviebazar.net:8081/hls/live0.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sonic_bangla.png.png",Sonic Bangla
-https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nick.png",NICK
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nick_jr.png",NICK JR
-https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_quran_makkah_live.png",Iqraa Television
-http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_sunnah_madinah_live.png",Filmon TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/مكة _tv.png",Makkah TV
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tabie_tv.jpg",Tabie TV
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tabie_tv.jpg",ARY Q TV -BDIX
-http://tv.mymoviebazar.net:8081/hls/new10.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_quran_makkah_live.png",Iqraa Television - BDIX
-http://tv.mymoviebazar.net:8081/hls/new11.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_sunnah_madinah_live.png",Filmon TV-BDIX
-http://tv.mymoviebazar.net:8081/hls/new15.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/117/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/118/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/120/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/124/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/126/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/127/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/128/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/129/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/130/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/131/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/132/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/133/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/134/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/135/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/136/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/137/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/138/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/139/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/140/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/141/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/142/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/143/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/144/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/145/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/146/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/147/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/148/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/149/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/150/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/151/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/152/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/153/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/154/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/155/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/156/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/157/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/158/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/159/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/160/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/161/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/162/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/163/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/164/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/165/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/166/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/167/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/168/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/169/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/170/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/171/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/172/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/173/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/174/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/175/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/176/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/177/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/178/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/179/index.m3u8
+#EXTINF:-1 ,
+http://otv.ftpbd.net/streams/180/index.m3u8
