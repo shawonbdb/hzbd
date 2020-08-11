@@ -147,8 +147,8 @@ http://tv.mymoviebazar.net:8081/hls/tsl-6.m3u8
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_sub_hd.jpg",SONY SAB - BDIX
 http://tv.mymoviebazar.net:8081/hls/tsl-4.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_hd.png",SONY MAX HD
-http://
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_hd.png",SONY MAX HD - INDIA
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_144p/index_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_sd.png",SONY MAX -BDIX
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_pix_hd.png",SONY PIX HD
