@@ -15,7 +15,7 @@ https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_bangla.png",Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/madina_bangla.png",Madina Bangla - BDIX Bangla
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/madina_bangla.png",Madina Bangla - BDIX
 http://tv.mymoviebazar.net:8081/hls/new9.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/peacetv_bangla.jpeg",Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
@@ -32,7 +32,7 @@ https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bangla_vision.png",Banglavision TV
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/boishakhi_tv.png",Boishakhi TV
-https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8s
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/deepto_tv.jpeg",Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/duronto_tv.jpg",Duronto TV
@@ -141,8 +141,10 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 http://tv.mymoviebazar.net:8081/hls/tsl-7.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&pictures.png",&Pictures - BDIX
 http://tv.mymoviebazar.net:8081/hls/tsl-2.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_tv_hd.png",SONY TV HD
-http://
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&_tv.png",&TV - BDIX
+http://tv.mymoviebazar.net:8081/hls/tsl-6.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_tv_hd.png",SONY TV HD - BDIX
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_sub_hd.jpg",SONY SAB - BDIX
 http://tv.mymoviebazar.net:8081/hls/tsl-4.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_hd.png",SONY MAX HD
@@ -175,6 +177,8 @@ http://136.243.177.164/AXN/playlist.m3u8
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asia_animal_planet_hd.png",ANIMAL PLANET HD - BDIX
 http://tv.mymoviebazar.net:8081/hls/tsl-1.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/national_geographic.png",National Geographic HD -BDIX
+http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/national_geographic.png",National Geographic
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_wild_hd.png",Nat Geo Wild
