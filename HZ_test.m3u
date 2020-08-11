@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 ,
+#EXTINF:-1 , 
 http://otv.ftpbd.net/streams/101/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Channel 9 HD
 http://otv.ftpbd.net/streams/102/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Somoy TV
 http://otv.ftpbd.net/streams/103/index.m3u8
 #EXTINF:-1 ,
 http://otv.ftpbd.net/streams/104/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Sony TEN 1
 http://otv.ftpbd.net/streams/105/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , 
 http://otv.ftpbd.net/streams/107/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , GTV HD
 http://otv.ftpbd.net/streams/108/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Sony MAX
 http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , National Geographic HD
 http://otv.ftpbd.net/streams/110/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Sony TEN 2 HD
 http://otv.ftpbd.net/streams/112/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Star Sports Select 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , 
 http://otv.ftpbd.net/streams/115/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Star Sports 2 HD
 http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , 
 http://otv.ftpbd.net/streams/117/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , 
 http://otv.ftpbd.net/streams/118/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Bangla Vision
 http://otv.ftpbd.net/streams/119/index.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 , Dipto TV HD
 http://otv.ftpbd.net/streams/120/index.m3u8
 #EXTINF:-1 ,
 http://otv.ftpbd.net/streams/121/index.m3u8
@@ -60,102 +60,121 @@ http://otv.ftpbd.net/streams/129/index.m3u8
 #EXTINF:-1 ,
 http://otv.ftpbd.net/streams/130/index.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/131/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/live0.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/132/index.m3u8
+http://otv.ftpbd.net/streams/132/live1.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/133/index.m3u8
+http://otv.ftpbd.net/streams/132/live2.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/134/index.m3u8
+http://otv.ftpbd.net/streams/132/live3.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/135/index.m3u8
+http://otv.ftpbd.net/streams/132/live4.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/136/index.m3u8
+http://otv.ftpbd.net/streams/132/live5.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/137/index.m3u8
+http://otv.ftpbd.net/streams/132/live6.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/138/index.m3u8
+http://otv.ftpbd.net/streams/132/live7.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/139/index.m3u8
+http://otv.ftpbd.net/streams/132/live8.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/140/index.m3u8
+http://otv.ftpbd.net/streams/132/live9.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/141/index.m3u8
+http://otv.ftpbd.net/streams/132/live10.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/142/index.m3u8
+http://otv.ftpbd.net/streams/132/live11.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/143/index.m3u8
+http://otv.ftpbd.net/streams/132/live12.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/144/index.m3u8
+http://otv.ftpbd.net/streams/132/live13.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/145/index.m3u8
+http://otv.ftpbd.net/streams/132/live14.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/146/index.m3u8
+http://otv.ftpbd.net/streams/132/live15.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/147/index.m3u8
+http://otv.ftpbd.net/streams/132/live16.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/148/index.m3u8
+http://otv.ftpbd.net/streams/132/live17.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/149/index.m3u8
+http://otv.ftpbd.net/streams/132/live18.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/150/index.m3u8
+http://otv.ftpbd.net/streams/132/live19.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/151/index.m3u8
+http://otv.ftpbd.net/streams/132/live20.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/152/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new1.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/153/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new2.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/154/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new3.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/155/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new4.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/156/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new5.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/157/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new6.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/158/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new7.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/159/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new8.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/160/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new9.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/161/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new10.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/162/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new11.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/163/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new12.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/164/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new13.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/165/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new14.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/166/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new15.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/167/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new16.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/168/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new17.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/169/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new18.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/170/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new19.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/171/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new20.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/172/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new21.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/173/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new22.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/174/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new23.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/175/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new24.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/176/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new25.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/177/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new26.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/178/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new27.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/179/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new28.m3u8
 #EXTINF:-1 ,
-http://otv.ftpbd.net/streams/180/index.m3u8
+http://tv.mymoviebazar.net:8081/hls/new29.m3u8
+#EXTINF:-1 ,
+http://tv.mymoviebazar.net:8081/hls/new30.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
