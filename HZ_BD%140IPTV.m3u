@@ -83,8 +83,8 @@ http://tv.mymoviebazar.net:8081/hls/new16.m3u8
 https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/shopno_tv.png",Shopno TV
 http://43.231.22.238:8081/SHOPNO/shopnotv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_8.png",Sony Aath
-https://itpolly.iptv.digijadoo.net/live/sony_aath/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_8.png",Sony Aath - INDIA
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_win.png",Channel Win - INDIA
 https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/abp_ananda.jpg",ABP Ananda
@@ -105,12 +105,12 @@ https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/music_india.png",Music India
 https://itpolly.iptv.digijadoo.net/live/music_india/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/9xm.jpg",9XM - INDIA
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-ipt48logo/9xm.jpg",9XM - INDIA
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/9x_jalwa.png",9X Jalwa - INDIA
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_720p/index.m3u8
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/9x_tahsan.png",9X Tahsan - INDIA
-https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in_720p/index.m3u8
+https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/b4u_movies.png",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/boogle_bollywood.png",Boogle Bollywood
@@ -152,20 +152,18 @@ http://tv.mymoviebazar.net:8081/hls/tsl-2.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&_tv.png",&TV - BDIX
 http://tv.mymoviebazar.net:8081/hls/tsl-6.m3u8
 EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/skystar_movies.png",SkyStar Movies - INDIA
-https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_720p/index.m3u8
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bflix_movies.jpg",Bflix Movies - INDIA
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_720p/index.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/wow_cinema.jpg",Wow Cinema - INDIA
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dabangg_tv.jpg",Dabangg TV - INDIA
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_720p/index.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_tv_hd.png",SONY TV HD - BDIX
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_tv_hd.png",SONY TV HD - INDIA
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_sub_hd.jpg",SONY Sab - BDIX
 http://tv.mymoviebazar.net:8081/hls/tsl-4.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_sub_hd.jpg",SONY Sab - INDIA
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_sub_hd.jpg",SONY Sab HD - INDIA
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_hd.png",SONY Max HD - INDIA
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
@@ -177,20 +175,12 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index_dvr.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_marathi.jpg",SONY Marathi - INDIA
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_720p/index_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_pix_hd.png",SONY PIX HD
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_movies.png",SONY MOVIES
-http://
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_action_movies.png",Fox Action Movies
-http://
 EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/short_films)tv.png",ShortFilms TV - INDIA
 https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg",HBO - BDIX
 http://tv.mymoviebazar.net:8081/hls/new13.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg",HBO 2 - BDIX
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg",HBO HD - BDIX
 http://otv.ftpbd.net/streams/111/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg",HBO (UK)
-http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_movies.png",STAR MOVIES - BDIX
 http://tv.mymoviebazar.net:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_world.png",Star World
@@ -199,10 +189,6 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 http://tv.mymoviebazar.net:8081/hls/new21.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/lotus_macau.png",Lotus Macau - BDIX
 http://tv.mymoviebazar.net:8081/hls/new22.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/axn_asia.png",AXN (ASIA)
-http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asia_animal_planet_hd.png",ANIMAL PLANET HD
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asia_animal_planet_hd.png",ANIMAL PLANET HD - BDIX
 http://tv.mymoviebazar.net:8081/hls/tsl-1.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/national_geographic.png",National Geographic HD -BDIX
@@ -217,14 +203,14 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dw_tv.png",DW TV
 https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dw_tv.png",DW TV HD
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dw_tv.png",DW TV HD - INDIA
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/history_tv_hd.png",HISTORY HD
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_life.png",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/language_course_english.png",Language Course: English TV
-https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in_1080p/index.m3u8
+https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nasa_tv.png",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/comedy_central.png",Comedy Central
@@ -275,8 +261,6 @@ https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 http://tv.mymoviebazar.net:8081/hls/new17.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/india_news.jpg",India News - INDIA
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hum_news.png",Hum News
-http://95.211.211.168/live/humnews0189/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cartoon_network.png",Cartoon Network HD - BDIX
 http://tv.mymoviebazar.net:8081/hls/new14.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/disney_channel.png",DISNEY Channel - BDIX
@@ -286,15 +270,15 @@ https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_yay!.jpg",Sony YAY - INDIA
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_aath.png",Sony Aath
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
+https://itpolly.iptv.digijadoo.net/live/sony_aath/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nick.png",NICK
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nick_jr.png",NICK JR
 https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_quran_makkah_live.png",Iqraa Television
-http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_sunnah_madinah_live.png",Filmon TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/مكة _tv.png",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tabie_tv.jpg",Tabie TV
