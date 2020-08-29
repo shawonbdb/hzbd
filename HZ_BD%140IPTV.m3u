@@ -60,7 +60,7 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/atn_news.jpg",ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ekattor_tv.png",Ekattor TV
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+http://otv.ftpbd.net/streams/119/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_24.png",Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/independent_tv.png",Independent TV
@@ -81,7 +81,7 @@ http://
 http://tv.mymoviebazar.net:8081/hls/new16.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nagorik_tv.png",Nagorik TV
 https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/shopno_tv.png",Shopno TV
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/shopno_tv.png",Shopno TV (Error)
 http://43.231.22.238:8081/SHOPNO/shopnotv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_8.png",Sony Aath - INDIA
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
@@ -176,7 +176,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_marathi.jpg",SONY Marathi - INDIA
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_720p/index_dvr.m3u8
 EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/short_films)tv.png",ShortFilms TV - INDIA
-https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_480p/index.m3u8
+https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg",HBO - BDIX
 http://tv.mymoviebazar.net:8081/hls/new13.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg",HBO HD - BDIX
@@ -211,8 +211,8 @@ https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_life.png",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/language_course_english.png",Language Course: English TV
-https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/language_course_english.png",Language Course: English TV - INDIA
+https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nasa_tv.png",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/comedy_central.png",Comedy Central
@@ -267,6 +267,8 @@ http://tv.mymoviebazar.net:8081/hls/new17.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cartoon_network.png",Cartoon Network HD - BDIX
 http://tv.mymoviebazar.net:8081/hls/new14.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cartoon_network.png",Cartoon Network HD - BDIX 2
+http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/disney_channel.png",DISNEY Channel - BDIX
 http://tv.mymoviebazar.net:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sonic_bangla.png.png",Sonic Bangla
