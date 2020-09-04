@@ -9,7 +9,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_movies.png",Star Jalsha Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bangla.jpg",Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png",Zee Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/madina_bangla.png",Madina Bangla - BDIX
 http://tv.mymoviebazar.net:8081/hls/new9.m3u8
@@ -101,7 +101,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hzR6MQyCCEY/XO8fX9mlDHI/AAAAAAAAFlk/a1fRsSnaDLwU4trlxK_Avh5TLniho9dKgCLcBGAs/s1600/8XM%2BLIVE.png",8XM HD - BDIX_CTG
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/72.ts
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-ipt48logo/9xm.jpg",9XM - INDIA
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/986/104/61/9xm-9x-media-music-television-live-music.jpg",9XM - INDIA
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/9x_jalwa.png",9X Jalwa - BDIX_CTG
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
