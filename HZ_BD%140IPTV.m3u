@@ -47,7 +47,7 @@ http://128.199.212.160/alif/1080/index.m3u8
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fdac11-1.fna.fbcdn.net/v/t1.0-9/p960x960/95388814_109958150703072_8136012426337320960_o.jpg?_nc_cat=102&_nc_sid=85a577&_nc_ohc=QQHo6J7l7woAX_y2NcF&_nc_ht=scontent.fdac11-1.fna&tp=6&oh=94174bc0f9a509adcd9bba9225abaf98&oe=5F7080A1",AB TV - BDIX
 http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/live-orgin/abtvusa.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mr_xtfXwj00/maxresdefault.jpg",Alpona TV -BDIX
+#EXTINF:-1 tvg-logo="http://www.alponatv.com/wp-content/uploads/2019/10/alpona_footer_logo.png",Alpona TV - BDIX
 http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/live-orgin/alponatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/probashi-bangla.jpg",Probashi Bangla - BDIX
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
