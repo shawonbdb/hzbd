@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ntv.png",NTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+http://103.205.133.14/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png",Channel I
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+http://103.205.133.14/hls/ichannel.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/atn_bangla.png",ATN Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
+http://103.205.133.14/hls/atnbangla.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/desh_tv.jpeg",Desh TV
+http://103.205.133.14/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_hd.png",Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_movies.png",Star Jalsha Movies
