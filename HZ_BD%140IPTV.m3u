@@ -52,9 +52,9 @@ http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKJ6bs4/Channel-t1.png",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/mohona_tv.jpeg",Mohona TV
-https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+http://103.205.133.14/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ruposhi_bangla.png",Ruposhi Bangla
-https://itpolly.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+http://103.205.133.14/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fdac11-1.fna.fbcdn.net/v/t1.0-9/p960x960/95388814_109958150703072_8136012426337320960_o.jpg?_nc_cat=102&_nc_sid=85a577&_nc_ohc=QQHo6J7l7woAX_y2NcF&_nc_ht=scontent.fdac11-1.fna&tp=6&oh=94174bc0f9a509adcd9bba9225abaf98&oe=5F7080A1",AB TV - BDIX
 http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/live-orgin/abtvusa.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.alponatv.com/wp-content/uploads/2019/10/alpona_footer_logo.png",Alpona TV -BDIX
@@ -62,7 +62,7 @@ http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/probashi-bangla.jpg",Probashi Bangla - BDIX
 http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asian_tv.png",Asian TV
-https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+http://103.205.133.14/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/satv.png",SA TV
 http://103.205.133.19/hls/satv.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/atn_news.jpg",ATN News
@@ -104,9 +104,9 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/assam_talks.png",Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/gb_tv.png",Gaan Bangla
-https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sangeet_bangla.png",Sangeet Bangla
-https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+http://103.205.133.19/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/jonack.png",Jonack TV
 http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zing.png",Zing
@@ -134,9 +134,9 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_risthey.png",Colors Rishtey
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zeetv.png",ZEE TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+http://103.205.133.19/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png",ZEE CINEMA
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+http://103.205.133.19/hls/zeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png",ZEE CINEMA HD
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bollywood.png",ZEE BOLLYWOOD SD
