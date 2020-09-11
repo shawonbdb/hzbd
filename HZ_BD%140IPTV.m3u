@@ -153,14 +153,10 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_hd.png",STAR GOLD
 http://216.144.250.174/Star_Gold_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_hd.png",STAR GOLD HD
-
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_2.png",STAR GOLD2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF: -1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="IND. MOVIES",Star Gold Select HD
 http://195.181.169.129/star_gold_Select-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_bharat.png",Star Bharat
-
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/gem_bollywood.png",GEM BOLLYWOOD Pakistan
 http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
 #EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2019/06/kay2-tv.jpg",Kay 2
@@ -178,7 +174,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/wow_cinema.jpg",Wow Cinema - INDIA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_tv_hd.png",SONY TV HD - BDIX
-http://103.214.202.218:8081/live/sony-40/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_tv_hd.png",SONY TV HD
+http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_sub_hd.jpg",SONY Sab - BDIX
 http://tv.mymoviebazar.net:8081/hls/tsl-4.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_sd.png",SONY Max - BDIX
@@ -196,7 +194,7 @@ http://tv.mymoviebazar.net:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_movies.png",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_world.png",Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+http://robi.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/ee/7f/afee7f902e65a98c2c2c5537f4d45b45.png",FOX Movies
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&flix_hd.jpg",&Flix - BDIX
@@ -212,7 +210,7 @@ http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_wild_hd.png",Nat Geo Wild
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.ts
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_people.png",Nat Geo People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227127/2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg",Travel XP HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tlc_hd.png",TLC HD
@@ -234,7 +232,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in_360p/index.m3
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nasa_tv.png",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/comedy_central.png",Comedy Central HD
-
+http://robi.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="Fashion",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8?checkedby:flylinks.net
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sports_tv.png",Sports TV - INDIA
@@ -250,11 +248,11 @@ http://otv.ftpbd.net/streams/105/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_2_hd.png",Sony Ten-2 HD - BDIX
 http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_3_hd.png",Sony Ten-3 HD
-http://
+http://103.205.133.19/hls/ten3.m3u8 
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ptv_sports.png",PTV Sports
-http://
+http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2185
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_hd_1.jpg",Star Sports 1 HD - BDIX
 http://tv.mymoviebazar.net:8081/hls/new2.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_hd_2.jpg",Star Sports 2 HD - BDIX
@@ -278,7 +276,7 @@ http://tv.mymoviebazar.net:8081/hls/new19.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bbc_world_news.png",BBC World News - BDIX
 http://tv.mymoviebazar.net:8081/hls/new18.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bbc_lifestyle.png",BBC Lifestyle
-https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/aljazeera.png",ALJAZEERA - BDIX
 http://tv.mymoviebazar.net:8081/hls/new17.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/india_news.jpg",India News - INDIA
@@ -294,13 +292,13 @@ http://tv.mymoviebazar.net:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/disney_channel.png",Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sonic_bangla.png",Sonic Bangla
-
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_aath.png",Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nick.png",NICK
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nick_jr.png",NICK JR
-
+http://robi.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_quran_makkah_live.png",Iqraa Television
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_sunnah_madinah_live.png",Filmon TV
