@@ -10,7 +10,7 @@ http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/desh_tv.jpeg",Desh TV
 http://103.205.133.50/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_hd.png",Star Jalsha HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_movies.png",Star Jalsha Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/47/48/44/474844f5cad00974afbb0efab3118cb8.png",Zee Bangla
