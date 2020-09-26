@@ -1,0 +1,429 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ntv.png" group-title="Bangla",NTV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/51
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png" group-title="Bangla",Channel I
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/56
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/atn_bangla.png" group-title="Bangla",ATN Bangla
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/55
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/atn-music.png" group-title="Bangla",ATN Music
+http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/desh_tv.jpeg" group-title="Bangla",Desh TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/22
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_hd.png" group-title="Kolkata",Star Jalsha
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/26
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_movies.png" group-title="Kolkata",Star Jalsha Movies
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/155
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bangla.png" group-title="Kolkata",Zee Bangla
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/77
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bangla_cinema.jpg" group-title="Kolkata",Zee Bangla Cinema
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/64
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_bangla.png" group-title="Kolkata",Colors Bangla
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/78
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/madina_bangla.png" group-title="Bangla",Madina Bangla - BDIX
+http://tv.mymoviebazar.net:8081/hls/new9.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/peacetv_bangla.jpeg" group-title="Bangla",Peace TV Bangla
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/94
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/atn_islamic.png" group-title="Bangla",ATN Islamic
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/87
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_s.png" group-title="Bangla",Channel S
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/73
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/iqra_bangla_tv.png" group-title="Bangla",Iqra Bangla TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/67
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_quran_makkah_live.png" group-title="Arabic",Iqraa Television - BDIX
+http://tv.mymoviebazar.net:8081/hls/new11.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_sunnah_madinah_live.png" group-title="Arabic",Filmon TV-BDIX
+http://tv.mymoviebazar.net:8081/hls/new15.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/مكة _tv.png" group-title="Arabic",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ekushey_tv.png" group-title="Bangla",Ekushey TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/63
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bangla_vision.png" group-title="Bangla",Bangla Vision TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/52
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/boishakhi_tv.png" group-title="Bangla",Boishakhi TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/61
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/deepto_tv.jpeg" group-title="Bangla",Deepto TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/125
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/duronto_tv.jpg" group-title="Bangla",Duronto TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/71
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/gtv_bd.png" group-title="Bangla",Gazi TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/103
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/maasranga_tv.jpg" group-title="Bangla",Maasranga TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/14
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_9.jpg" group-title="Bangla",Channel 9
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/49
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/btv_world.png" group-title="Bangla",BTV National
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/39
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/btv_world.png" group-title="Bangla",BTV World
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/120
+#EXTINF:-1 tvg-logo="https://www.cyber-islam.university/wp-content/uploads/2019/06/Bangla_Tv_Logo-630x480.jpg" group-title="Bangla",Bangla TV UK
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/74
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/rtv.png" group-title="Bangla",RTV HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/35
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/mytv.png" group-title="Bangla",MY TV HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/47
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bijoy_tv.png" group-title="Bangla",Bijoy HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/31
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/time_television.png" group-title="Bangla",Time Television
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/21
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/deshe_bideshe.png" group-title="Bangla",Deshe Bideshe
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/70
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/deshi_tv.png" group-title="Bangla",Deshi TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/118
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nandan_tv.png" group-title="Bangla",Nandan TV Bangla
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/117
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/itv_bangla.png" group-title="Bangla",i TV Bangla
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/106
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tbn_24.png" group-title="Bangla",TBN 24
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/220
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/alif_tv.png" group-title="Bangla",Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_t1.png" group-title="Bangla",Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/mohona_tv.jpeg" group-title="Bangla",Mohona TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/68
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ruposhi_bangla.png" group-title="Bangla",Ruposhi Bangla
+http://103.205.133.50/hls/ruposhibangla.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ananda_tv.png" group-title="Bangla",Ananda TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/13
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nrb_bangla.png" group-title="Bangla",NRB Bangla
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/69
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ab_tv.png" group-title="Bangla",AB TV
+http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/live-orgin/abtvusa.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/alpona_tv.png" group-title="Bangla",Alpona TV
+http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/live-orgin/alponatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/probashi_bangla.jpg" group-title="Bangla",Probashi Bangla
+http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asian_tv.png" group-title="Bangla",Asian TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/58
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/satv.png" group-title="Bangla",SA TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/57
+#EXTINF:-1 tvg-logo="https://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="Bangla",Bijoy TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/31
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/atn_news.jpg" group-title="Bangla",ATN News
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/59
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ekattor_tv.png" group-title="Bangla",Ekattor TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/41
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_24.png" group-title="Bangla",Channel 24
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/60
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/independent_tv.png" group-title="Bangla",Independent TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/44
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/shomoy_tv.png" group-title="Bangla",Somoy TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/50
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/independent.png" group-title="Bangla",Jamuna TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/62
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dbc_news.png" group-title="Bangla",DBC News
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/79
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/news24.png" group-title="Bangla",News24 HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/46
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/shangshad_bangladesh.png" group-title="Bangla",Shansad Bangladesh
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/live-orgin/songsodtv-world.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nagorik_tv.png" group-title="Bangla",Nagorik TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/76
+#EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/digi_bangla.png" group-title="Bangla",Digi Bangla 24
+http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/digibangla.stream/live-orgin/digibangla.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://televisionbd.com/uploads/tv_image/channel-tt.png" group-title="Bangla",Channel TT New York
+https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Kolkata",Tollywood TV Bangla
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_aath.png" group-title="Kolkata,Sony Aath
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/81
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/abp_ananda.jpg" group-title="Kolkata",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/aakash_aath.png" group-title="Kolkata",Aakash Aath
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/66
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/calcutta_news.png" group-title="Kolkata",Calcutta News
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/115
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/assam_talks.png" group-title="Kolkata",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/jonack.png" group-title="Kolkata",Jonack TV
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/gb_tv.png" group-title="Bangla",Gaan Bangla
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/18
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sangeet_bangla.png" group-title="Kolkata",Sangeet Bangla
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/27
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dhoom_music_bangla.jpg" group-title="Kolkata",Dhoom Music Bangla
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/98
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zing.png" group-title="Hindi",Zing -BDIX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zing.png" group-title="Hindi",Zing
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/32
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zoom.png" group-title="Hindi",Zoom
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/89
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/music_india.png" group-title="Hindi",Music India
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/86
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/9x_jalwa.png" group-title="Hindi",9X Jalwa
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/33
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/b4u_movies.png" group-title="Hindi",B4U Music
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/249
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/boogle_bollywood.png" group-title="Hindi",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/mtv_beats.png" group-title="Hindi",MTV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/130
+#EXTINF:-1 tvg-logo="https://app.barazaradio.com/wp-content/uploads/2020/01/newnew-300x199.png" group-title="Hindi",Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/z_etc_bollywood.png" group-title="Hindi",Z-ETC
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/88
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/E24.png" group-title="Hindi",E24
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/34
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_hd.png" group-title="Hindi",Colors
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/82
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_hd.png" group-title="Hindi",Colors HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_risthey.png" group-title="Hindi",Colors Rishtey
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/23
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zeetv.png" group-title="Hindi",ZEE TV HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/84
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Hindi",ZEE CINEMA
+http://103.205.133.50/hls/zeecinema.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="Hindi",ZEE CINEMA HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/45
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bollywood.png" group-title="Hindi",ZEE BOLLYWOOD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/139
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/manoranjan_tv.jpg" group-title="Hindi",Manoranjan TV
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_plus_hd.png" group-title="Hindi",STAR PLUS
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/83
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_plus_hd.png" group-title="Hindi",STAR PLUS HD 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_hd.png" group-title="Hindi",STAR GOLD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/30
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_gold_2.png" group-title="Hindi",STAR GOLD2
+http://45.249.187.238:8081/hls/tsl-3.m3u8
+#EXTINF: -1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="Hindi",Star Gold Select HD
+http://195.181.169.129/star_gold_Select-Hin/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hum_masala.png" group-title="Urdu",Hum Masala
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/80
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/gem_bollywood.png" group-title="Urdu",GEM BOLLYWOOD Pakistan
+http://185.132.177.102:6204/live/hdbox02first1836/10444148445dd99fb952779/54.m3u8
+#EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2019/06/kay2-tv.jpg" group-title="Urdu",Kay 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/utv_action.png" group-title="Hindi",UTV Action - BDIX
+http://tv.mymoviebazar.net:8081/hls/tsl-7.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&pictures.png" group-title="Hindi",&Pictures
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/92
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&_tv.png" group-title="Hindi",&TV
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/85
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&xplor_hd.png" group-title="Hindi",&Xplor HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/167
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bflix_movies.jpg" group-title="Hindi",Bflix Movies - INDIA
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/159
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/wow_cinema.jpg" group-title="Hindi",Wow Cinema - INDIA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_tv_hd.png" group-title="Hindi",SONY TV HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/40
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_sub_hd.jpg" group-title="Hindi",SONY Sab
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/109
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_sd.png" group-title="Hindi",SONY Max
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/147
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_max_sd.png" group-title="Hindi",SONY Max - BDIX
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/life_ok.png" group-title="Hindi",Life OK
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/131
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/b4u_movies.png" group-title="Hindi",B4U Movies
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/145
+EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/short_films)tv.png" group-title="English",ShortFilms TV - INDIA
+https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg" group-title="English",HBO HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/150
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg" group-title="English",HBO - BDIX
+http://tv.mymoviebazar.net:8081/hls/new13.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg" group-title="English",HBO HD - BDIX
+http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/hbo_uk.jpg" group-title="English",HBO - BDIX_CCNTV
+http://ccntv.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_movies.png" group-title="English",STAR MOVIES
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/90
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_movies.png" group-title="English",STAR MOVIES - BDIX
+http://tv.mymoviebazar.net:8081/hls/tsl-8.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_world.png" group-title="English",Star World
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/128
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_movies.png" group-title="English",FOX Movies
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/152
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_movies.png" group-title="English",FOX Movies
+http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/movies_now.jpg" group-title="English",Movies Now
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/181
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/romedy_now.jpg" group-title="English",Romedy Now
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/183
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/mnx.png" group-title="English",MNX
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/184
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&prive_hd.png" group-title="English",&Prive HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/184
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&flix_hd.jpg" group-title="English",&Flix
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/179
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/&flix_hd.jpg" group-title="English",&Flix - BDIX
+http://tv.mymoviebazar.net:8081/hls/new21.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/axn_bdix.png" group-title="English",AXN HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/151
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/itv2.png" group-title="English",itv2
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/168
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dubai_one.png" group-title="English",Dubai One
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/258
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/lotus_macau.png" group-title="English",Lotus Macau - BDIX
+http://tv.mymoviebazar.net:8081/hls/new22.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/language_course_english.png" group-title="English",Language Course: English TV - INDIA
+https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nasa_tv.png" group-title="Documentary",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cafe.png" group-title="Documentary",Zee Cafe
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/142
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fashion_tv.png" group-title="Documentary",Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8?checkedby:flylinks.net
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/discovery_hd.jpg" group-title="Documentary",Discovery HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/140
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/discovery_hd.jpg" group-title="Documentary",Discovery HD
+http://live-ng-01.more.tv:80/hls/Discovery_HD/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/asia_animal_planet_hd.png" group-title="Documentary",ANIMAL PLANET HD - BDIX
+http://tv.mymoviebazar.net:8081/hls/tsl-1.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/national_geographic.png" group-title="Documentary",National Geographic
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/127
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/national_geographic.png" group-title="Documentary",National Geographic HD -BDIX
+http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_wild_hd.png" group-title="Documentary",Nat Geo Wild
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/136
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_wild_hd.png" group-title="Documentary",Nat Geo Wild -BDIX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_people.png" group-title="Documentary",Nat Geo People
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/108
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nat_geo_people.png" group-title="Documentary",Nat Geo People
+http://103.47.132.165/PLTV/88888888/224/3221227127/2.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/travel_xp_hd.jpg" group-title="Documentary",Travel XP HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tlc_hd.png" group-title="Documentary",TLC HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dw_tv.png" group-title="Documentary",DW TV HD - INDIA
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/history_tv_hd.png" group-title="Documentary",HISTORY HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/132
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Documentary",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/living_foodz.png" group-title="Documentary",Living Foodz Hindi
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/99
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/living_foodz.png" group-title="Documentary",Living Foodz Hindi - INDIA
+http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sports_tv.png" group-title="Sports",Sports TV - INDIA
+https://m-c09-j2apps.s.llnwi.net/hls/8016.SportsTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/dd_sports.png" group-title="Sports",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/fox_sports_506_hd.png" group-title="Sports",Fox Sports 506 HD
+http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sky_sports_premier_l.png" group-title="Sports",Sky Sports Premier
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/141
+#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/videos/video-poster.png" group-title="Sports",Bein Sports Xtra HD
+https://chostv.mobie.in/choos/sports/beinxtra.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bein_sports_hd_1.png" group-title="Sports",Bein Sports HD 1
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/158
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bein_sports_hd_2.png" group-title="Sports",Bein Sports HD 2
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/156
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bein_sports_hd_3.png" group-title="Sports",Bein Sports HD 3
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/154
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bein_sports_hd_5.png" group-title="Sports",Bein Sports HD 5
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/165
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/setanta_sports_1.png" group-title="Sports",Setanta Sports 1
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/164
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/setanta_sports_2.png" group-title="Sports",Setanta Sports 2
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/153
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/football_tv.png" group-title="Sports",Football TV - INDIA
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sky_sports_football.png" group-title="Sports",Sky Football
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/166
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sky_sports_cricket.jpg" group-title="Sports",Sky Sports Cricket
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/146
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sky_sports_mainevent.png" group-title="Sports",SkySports MainEvent
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/175
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_1.png" group-title="Sports",Star Sports 1
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/241
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_1.png" group-title="Sports",Star Sports 1 - BDIX
+http://tv.mymoviebazar.net:8081/hls/new1.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_2.png" group-title="Sports",Star Sports 2
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/43
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_2.png" group-title="Sports",Star Sports 2 - ALT
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/48
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_hd_1.jpg" group-title="Sports",Star Sports 1 HD - BDIX
+http://tv.mymoviebazar.net:8081/hls/new2.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_hd_2.jpg" group-title="Sports",Star Sports 2 HD - BDIX
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_select_1.png" group-title="Sports",Star Sports Select-1 **
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/95
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_select_2.jpg" group-title="Sports",Star Sports Select-2 **
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/160
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_select_1_hd.jpg" group-title="Sports",Star Sports Select-1 HD - BDIX
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_sports_select_2_hd.jpg" group-title="Sports",Star Sports Select-2 HD - BDIX
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_six.png" group-title="Sports",Sony Six - BDIX
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_six_hd.png" group-title="Sports",Sony Six HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/65
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_1.jpg" group-title="Sports",Sony Ten-1 - BDIX
+http://otv.ftpbd.net/streams/105/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_1_hd.png" group-title="Sports",Sony Ten-1 HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/144
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_2_hd.png" group-title="Sports",Sony Ten-2 HD - BDIX
+http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_2_hd.png" group-title="Sports",Sony Ten-2 HD - BDIX
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/134
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_3.png" group-title="Sports",Sony Ten-3 - BDIX
+http://103.205.133.50/hls/ten3.m3u8 
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_ten_3_hd.png" group-title="Sports",Sony Ten-3 HD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/126
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/willow.png" group-title="Sports",Willow Cricket **
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/133
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ten_sports.png" group-title="Sports",Ten Sports
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/163
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ten_sports.png" group-title="Sports",Ten Sports
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ptv_sports.png" group-title="Sports",PTV Sports
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/96
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/geo_super.png" group-title="Sports",Geo Super
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/97
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nxt_uk.png" group-title="Sports",NXT UK
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/174
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/Sport_7.png" group-title="Sports",Sport 7
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/157
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cnn.png" group-title="News",CNN - BDIX
+http://tv.mymoviebazar.net:8081/hls/new19.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cnn.png" group-title="News",CNN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bbc_world_news.png" group-title="News",BBC World News - BDIX
+http://tv.mymoviebazar.net:8081/hls/new18.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/bbc_lifestyle.png" group-title="News",BBC Lifestyle
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/aljazeera.png" group-title="News",ALJAZEERA
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/252
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/aljazeera.png" group-title="News",ALJAZEERA - BDIX
+http://tv.mymoviebazar.net:8081/hls/new17.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cgtn_news.png" group-title="News", CGTN News
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/251
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/india_news.jpg" group-title="News",India News - INDIA
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cnbc_tv_18.png" group-title="News",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?checkedby:flylinks.net
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cartoon_network.png" group-title="Cartoon",Cartoon Network HD - BDIX
+http://tv.mymoviebazar.net:8081/hls/new14.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/cartoon_network.png" group-title="Cartoon",Cartoon Network HD - BDIX 2
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/disney_channel.png" group-title="Cartoon",DISNEY Channel - BDIX
+http://tv.mymoviebazar.net:8081/hls/live0.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/disney_junior.png" group-title="Cartoon",Disney Junior
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/148
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/disney_channel.png" group-title="Cartoon",Disney XD
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/149
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/disney_channel.png" group-title="Cartoon",Disney XD - BDIX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/Sony_yay.png" group-title="Cartoon",Sony YAY!
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/135
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sonic_bangla.png" group-title="Cartoon",Sonic Bangla
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/sony_aath.png" group-title="Cartoon",Sony Aath
+http://live.banglatv.xyz:8880/shahshawon/GelZ69LeE6/81
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/nick.png" group-title="Cartoon",NICK
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_quran_makkah_live.png" group-title="Arabic",Iqraa Television
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/saudi_sunnah_madinah_live.png" group-title="Arabic",Filmon TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/tabie_tv.jpg" group-title="Arabic",Tabie TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ary_qtv.png" group-title="Arabic",ARY Q TV -BDIX
+http://tv.mymoviebazar.net:8081/hls/new10.m3u8
