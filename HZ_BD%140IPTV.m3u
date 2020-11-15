@@ -5,9 +5,9 @@ http://103.205.133.50/hls/ntv.m3u8
 http://103.205.133.50/hls/ichannel.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="BANGLA",ATN Bangla
 http://103.205.133.50/hls/atnbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="BANGLA" "MUSIC",ATN Music
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="BANGLA" group-title="MUSIC",ATN Music
 http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g7xebew4gotro8j/EB.png" group-title="BANGLA",Desh TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="BANGLA",Desh TV
 http://103.205.133.50/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/star_jalsha_hd.png",Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
