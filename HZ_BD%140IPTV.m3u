@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/ntv.png",NTV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png",NTV
 http://103.205.133.50/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png",Channel I
 http://103.205.133.50/hls/ichannel.m3u8
