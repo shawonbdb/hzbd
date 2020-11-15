@@ -11,7 +11,7 @@ http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 http://103.205.133.50/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA",Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA" group-title="Kolkata",Star Jalsha Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Star Jalsha Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA",Zee Bangla
 http://103.205.133.50/hls/zeebangla.m3u8
