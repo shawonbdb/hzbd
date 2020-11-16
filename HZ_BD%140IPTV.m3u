@@ -16,7 +16,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA",Zee Bangla
 http://103.205.133.50/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA",Zee Bangla Cinema
-http://103.135.208.14:8082/29/index.m3u8?token=addba6080bf26858f376bb71ce6ac125f1fe0d14-991b5cb8d1d30edd035079f8362254f6-1605422906-1605412106
+http://103.135.208.14:8082/29/index.m3u8?token=addba6080bf26858f376bb71ce6ac125f1fe0d14-991b5cb8d1d30edd035079f8362254f6-1605422906-1605412106&remote=103.91.128.218
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA",Colors Bangla
 http://103.135.208.14:8082/66/index.m3u8?token=777f190772fc8b06785ca54816596506a48a0a34-4ccd451bdbe9aa2a3ed7faa9659f3f80-1605423021-1605412221&remote=103.91.128.218
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BANGLA" group-title="RELIGION",Madina Bangla - BDIX
