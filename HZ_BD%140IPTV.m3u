@@ -20,10 +20,10 @@ http://cdnbdlan.thunderbd.com/31/index.m3u8?token=62a08967691031238b9f9a3834a25b
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA",Zee Bangla
 http://cdnbdlan.thunderbd.com/34/index.m3u8?token=f77ed33677db0ea7b11ff1d2fd78eda9e2a97d3d-4afcc9877a2340d06da7816c1945a3b0-1612021268-1612010468
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA",Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_bangla_cinema.jpg" group-title="BANGLA",Zee Bangla Cinema
 http://cdnbdlan.thunderbd.com/29/index.m3u8?token=5b2a5da9c6ad1213991b406fb6b0806c396335ab-f82fce5bf56d01aa0277f2a0bb86f18a-1612021288-1612010488
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA",Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/colors_bangla.png" group-title="BANGLA",Colors Bangla HD
 http://cdnbdlan.thunderbd.com/66/index.m3u8?token=f830c3a45adb6b1c589c1130bdd4800ce7fedb94-975d604e251b1dae9cf1b97ca73bf558-1612021573-1612010773
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="BANGLA" group-title="RELIGION",Peace TV Bangla
