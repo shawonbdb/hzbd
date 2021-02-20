@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:24,71 Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV%E2%84%A2
+#EXTINF:240,9x Jalwa (1)
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:32,9x Jalwa (2)
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:240,9x Tashan
+https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,9xM (1)
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,adSports1 FHD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,adSports2 FHD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0,adSports3 FHD
+https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:60,ANIMAX (1)
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8?Live-TV%E2%84%A2
+#EXTINF:24,ATN BANGLA (2)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
+#EXTINF:24,ATN BANGLA (3)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:0,ATN Islam
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8?Live-TV%E2%84%A2
+#EXTINF:25,ATN Music
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8?Live-TV%E2%84%A2
+#EXTINF:23,ATN NEWS (2)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+#EXTINF:23,BANGLA VISION (2)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:0,BBC News
+http://203.162.235.41:16917
+#EXTINF:60,BEIN SPORT EXTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:23,BOISHAKHI TV (2)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:22,BT Sports 1
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:22,BT Sports 2
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:0,BT Sports 3
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:22,BT Sports ESPN
+http://160.119.77.116:8081/iptv/uk-espn.stream/playlist.m3u8
+#EXTINF:71,CARTOON NETWORK IND (1)
+http://otv.ftpbd.net/streams/123/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:23,CHANNEL 24 (2)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:24,CHANNEL-S (1)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,CNN
+http://203.162.235.41:16918
+#EXTINF:24,DBC NEWS HD (2)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF:24,DESH TV (1)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+#EXTINF:0,DISNEY (1)
+http://otv.ftpbd.net/streams/122/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,DISNEY (2)
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:0,DISNEY jr. (1)
+http://79.137.41.99/DisneyChannel/index.m3u8
+#EXTINF:0,Disney XD
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:72,EKATTOR TV HD (1)
+http://otv.ftpbd.net/streams/128/index.m3u8
+#EXTINF:48,EKUSHEY TV (3)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0,Fashion Teen (1)
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Fashion Teen (1)
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Fashion TV (1)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:30,Fashion TV (1)
+https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
+#EXTINF:0,Fashion TV (1)
+https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
+#EXTINF:0,Fashion TV (1)
+https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
+#EXTINF:17,Fashion TV (1)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:18,Fashion TV (2)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:0,Fashion TV (2)
+https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8
+#EXTINF:0,Fashion TV (2)
+https://ch.iptvmate.net/417057fba179467854c0c947f5322307.m3u8
+#EXTINF:0,Fashion TV (2)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:0,Fashion TV (2)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:0,Fox Cricket HD
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:0,FOX SPORT 1 (1)
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,FOX SPORT 1 (2)
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0,FOX SPORT 2 (1)
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,FOX SPORT 2 (2)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:0,FOX SPORT 3 (1)
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,FOX SPORT 3 (2)
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:66,Gaan Bangla (1)
+http://103.205.133.21/hls/gaanbangla.m3u8
+#EXTINF:31,GAZI TV HD (1)
+http://43.251.86.6:8080/hls/channel_1.m3u8
+#EXTINF:0,HBO Family (1)
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,HBO Family (2)
+https://raw.githubusercontent.com/zaltvplayer/play01/master/hbofam.m3u8
+#EXTINF:0,HBO Hits (1)
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,HBO Signature
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8?Live-TV%E2%84%A2
+#EXTINF:23,INDEPENDENT TV (2)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:71,Jalsha Movies (1)
+http://otv.ftpbd.net/streams/115/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:24,JAMUNA TV (2)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:24,MAASRANGA TV HD (5)
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+#EXTINF:0,NAT GEO HD (1)
+http://otv.ftpbd.net/streams/110/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:24,NEWS 24 HD (2)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:20,NTV (3)
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:12,Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:18,Peace TV Bangla
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?Live-TV%E2%84%A2
+#EXTINF:78,Ptv Sports (2)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:30,Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?Live-TV%E2%84%A2
+#EXTINF:24,RTV Music
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,S Football
+http://45.134.21.230/hls/T1.m3u8
+#EXTINF:24,SA TV HD (2)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:60,Saudi Quran
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,Saudi Sunnah
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
+#EXTINF:40,Sky Bundesliga
+http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8
+#EXTINF:23,Sky Cricket HD
+http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
+#EXTINF:0,Sky sport Action HD
+http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
+#EXTINF:0,Sky sport EPL HD
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:0,Sky sport football HD
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:0,Sky sport mix HD
+http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
+#EXTINF:0,Sky sports premier
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+#EXTINF:23,SOMOY TV (1)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8?Live-TV%E2%84%A2
+#EXTINF:67,Sony Aath (1)
+http://103.205.133.48/hls/sony8.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,Sony ESPN HD
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:71,Sony Six HD (1)
+http://otv.ftpbd.net/streams/106/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:71,Sony Six HD (1)
+http://otv.ftpbd.net/streams/106/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,Sony Ten 1 HD (1)
+http://43.230.123.21:8080/live/sonyten-1.m3u8
+#EXTINF:60,Sony Ten 1 HD (4)
+http://103.205.133.21/hls/ten1.m3u8
+#EXTINF:0,Sony Ten 3 HD (1)
+http://103.205.133.21/hls/ten3.m3u8
+#EXTINF:0,Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0,Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0,Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0,Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0,Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:122,Star Jalsha (3)
+http://45.127.244.7:8080/hls/channel12.m3u8
+#EXTINF:71,Star Movies HD
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:71,Star S 1 Sel. (1)
+http://otv.ftpbd.net/streams/113/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,Star S 2 Sel. (1)
+http://otv.ftpbd.net/streams/114/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:71,Star Sports 1 (2)
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:0,Star Sports 2 (1)
+http://otv.ftpbd.net/streams/116/index.m3u8?Live-TV%E2%84%A2
+#EXTINF:0,Star Sports 2 (6)
+http://103.205.133.48/hls/chss2.m3u8
+#EXTINF:60,Thrill (2)
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:0,Titas Sports (4)
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:71,Titas Sports (4)
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:71,Zee Bangla (2)
+http://otv.ftpbd.net/streams/107/index.m3u8
