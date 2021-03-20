@@ -1,0 +1,165 @@
+#EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="MAASRANGA TV" tvg-logo="" group-title="",MAASRANGA TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SOMOY TV" tvg-logo="" group-title="",SOMOY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NTV" tvg-logo="" group-title="",NTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY TV" tvg-logo="" group-title="",MY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JAMUNA TV" tvg-logo="" group-title="",JAMUNA TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GAZI TV" tvg-logo="" group-title="",GAZI TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GAAN BANGLA" tvg-logo="" group-title="",GAAN BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EKUSHEY TV" tvg-logo="" group-title="",EKUSHEY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL 9" tvg-logo="" group-title="",CHANNEL 9
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL 24" tvg-logo="" group-title="",CHANNEL 24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV" tvg-logo="" group-title="",RTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA VISION" tvg-logo="" group-title="",BANGLA VISION
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EKATTOR TV" tvg-logo="" group-title="",EKATTOR TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="INDEPENDENT TV" tvg-logo="" group-title="",INDEPENDENT TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE BANGLA" tvg-logo="" group-title="",ZEE BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STAR JALSHA" tvg-logo="" group-title="",STAR JALSHA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZING" tvg-logo="" group-title="",ZING
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE TV" tvg-logo="" group-title="",ZEE TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE CINEMA" tvg-logo="" group-title="",ZEE CINEMA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRAVEL XP HD" tvg-logo="" group-title="",TRAVEL XP HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC HD" tvg-logo="" group-title="",TLC HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STAR UTSAV MOVIES" tvg-logo="" group-title="",STAR UTSAV MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="",Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star Sports Select 1 HD" tvg-logo="" group-title="",Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS FIRST" tvg-logo="" group-title="",STAR SPORTS FIRST
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 1" tvg-logo="" group-title="",STAR SPORTS 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STAR PLUS" tvg-logo="" group-title="",STAR PLUS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES" tvg-logo="" group-title="",STAR MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="STAR GOLD" tvg-logo="" group-title="",STAR GOLD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY YAY" tvg-logo="" group-title="",SONY YAY
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN 2 HD" tvg-logo="" group-title="",SONY TEN 2 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN 1" tvg-logo="" group-title="",SONY TEN 1
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY SIX HD" tvg-logo="" group-title="",SONY SIX HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY PIX HD" tvg-logo="" group-title="",SONY PIX HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY HD" tvg-logo="" group-title="",SONY HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY ESPN" tvg-logo="" group-title="",SONY ESPN
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY AATH" tvg-logo="" group-title="",SONY AATH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SETMAX HD" tvg-logo="" group-title="",SETMAX HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SATV" tvg-logo="" group-title="",SATV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SANGEET BANGLA" tvg-logo="" group-title="",SANGEET BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PTV Sports" tvg-logo="" group-title="",PTV Sports
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICK" tvg-logo="" group-title="",NICK
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="",NAT GEO WILD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAGORIK TV" tvg-logo="" group-title="",NAGORIK TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC MASTI" tvg-logo="" group-title="",MUSIC MASTI
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC INDIA" tvg-logo="" group-title="",MUSIC INDIA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC BOX" tvg-logo="" group-title="",MUSIC BOX
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/89.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="" group-title="",MTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MN HD" tvg-logo="" group-title="",MN HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kolkata TV" tvg-logo="" group-title="",Kolkata TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JALWA" tvg-logo="" group-title="",JALWA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JALSHA MOVIES" tvg-logo="" group-title="",JALSHA MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hum Sitaray" tvg-logo="" group-title="",Hum Sitaray
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hum Masala" tvg-logo="" group-title="",Hum Masala
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="History 2" tvg-logo="" group-title="",History 2
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="",HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ETC" tvg-logo="" group-title="",ETC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E24" tvg-logo="" group-title="",E24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DW" tvg-logo="" group-title="",DW
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DURONTO TV" tvg-logo="" group-title="",DURONTO TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DSPORTS" tvg-logo="" group-title="",DSPORTS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISENY CARTOON" tvg-logo="" group-title="",DISENY CARTOON
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ENGLISH" tvg-logo="" group-title="",DISCOVERY ENGLISH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEPTO BANGLA" tvg-logo="" group-title="",DEPTO BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DD BANGLA" tvg-logo="" group-title="",DD BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COLORS" tvg-logo="" group-title="",COLORS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL I" tvg-logo="" group-title="",CHANNEL I
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="",CARTOON NETWORK
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BTV" tvg-logo="" group-title="",BTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bflix MOVIE" tvg-logo="" group-title="",Bflix MOVIE
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC WORLD" tvg-logo="" group-title="",BBC WORLD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Lifestyle" tvg-logo="" group-title="",BBC Lifestyle
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC EARTH" tvg-logo="" group-title="",BBC EARTH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="B4U MUSIC" tvg-logo="" group-title="",B4U MUSIC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="B4U MOVIES" tvg-logo="" group-title="",B4U MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="" group-title="",AXN HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ATN BANGLA" tvg-logo="" group-title="",ATN BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera HD" tvg-logo="" group-title="",Aljazeera HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AKASH AATH" tvg-logo="" group-title="",AKASH AATH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
+#EXTINF:-1 tvg-ID="" tvg-name="9X JALWA" tvg-logo="" group-title="",9X JALWA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="8XM" tvg-logo="" group-title="",8XM
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="&Flix" tvg-logo="" group-title="",&Flix
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
