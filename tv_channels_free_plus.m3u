@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" group-title="Bangla",Gazi TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/107.jpg" group-title="Bangla",ATN Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision TV" tvg-logo="http://roarmediazone.com/tv/weblogo/120.jpg" group-title="Bangla",Banglavision TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="Bangla",Channel 9
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="http://roarmediazone.com/tv/img/channel24.jpg" group-title="Bangla",Channel 24
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="http://roarmediazone.com/tv/weblogo/101.jpg" group-title="Bangla",Channel I
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="http://roarmediazone.com/tv/weblogo/99.jpg" group-title="Bangla",DBC News
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/68.jpg" group-title="Bangla",Deepto TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="http://roarmediazone.com/tv/weblogo/98.jpg" group-title="Bangla",Desh TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/84.jpg" group-title="Bangla",Duronto TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV" tvg-logo="http://roarmediazone.com/tv/weblogo/88.jpg" group-title="Bangla",Ekattor TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="http://roarmediazone.com/tv/weblogo/67.jpg" group-title="Bangla",Independent TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="http://roarmediazone.com/tv/weblogo/61.jpg" group-title="Bangla",Jamuna TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://roarmediazone.com/tv/weblogo/70.jpg" group-title="Bangla",RTV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="http://roarmediazone.com/tv/weblogo/121.jpg" group-title="Bangla",SA TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="http://roarmediazone.com/tv/weblogo/85.jpg" group-title="Bangla",Ananda TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="http://roarmediazone.com/tv/weblogo/59.jpg" group-title="Bangla",Somoy TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="http://roarmediazone.com/tv/weblogo/65.jpg" group-title="Bangla",News24
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="http://roarmediazone.com/tv/weblogo/106.jpg" group-title="Bangla",Bangla TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="http://roarmediazone.com/tv/weblogo/15.jpg" group-title="Sports",Sony Ten 1
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="http://roarmediazone.com/tv/weblogo/62.jpg" group-title="Sports",Sony Ten 2
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="http://roarmediazone.com/tv/weblogo/14.jpg" group-title="Sports",Sony Ten 3
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/22.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="Sony ESPN" tvg-logo="http://roarmediazone.com/tv/weblogo/57.jpg" group-title="Sports",Sony ESPN
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony SIX" tvg-logo="http://roarmediazone.com/tv/weblogo/16.jpg" group-title="Sports",Sony SIX
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="http://roarmediazone.com/tv/weblogo/89.jpg" group-title="Sports",Star Sports 1
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="http://roarmediazone.com/tv/weblogo/41.jpg" group-title="Sports",Star Sports 2
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="http://roarmediazone.com/tv/weblogo/13.jpg" group-title="Sports",Star Sports Select 1
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="http://roarmediazone.com/tv/weblogo/12.jpg" group-title="Sports",Star Sports Select 2
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bangla Cinema" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="Kolkata",ZEE Bangla Cinema
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://roarmediazone.com/tv/weblogo/90.jpg" group-title="Kolkata",Star Jalsha
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies" tvg-logo="http://roarmediazone.com/tv/weblogo/125.jpg" group-title="Kolkata",Star Jalsha Movies
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Akaash Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/109.jpg" group-title="Kolkata",Akaash Aath
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="Kolkata",Zee Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="http://roarmediazone.com/tv/weblogo/83.jpg" group-title="Documentary",Natgeo
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="Hindi",Sony SAB
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Hindi",SONY SET MAX
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="http://roarmediazone.com/tv/weblogo/19.jpg" group-title="Hindi",Sony TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="http://roarmediazone.com/tv/weblogo/02.jpg" group-title="Hindi",ZEE TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="http://roarmediazone.com/tv/weblogo/17.jpg" group-title="English",Sony Pix
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/41.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://roarmediazone.com/tv/weblogo/116.jpg" group-title="English",HBO
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/42.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" tvg-logo="http://roarmediazone.com/tv/weblogo/114.jpg" group-title="Documentary",Discovery HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Documentary",Sony BBC Earth HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://roarmediazone.com/tv/weblogo/74.jpg" group-title="Hindi",Movies Now
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="Music",Zee ETC
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="http://roarmediazone.com/tv/weblogo/97.jpg" group-title="Music",9xM
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="http://roarmediazone.com/tv/weblogo/108.jpg" group-title="Bangla",ATN NEWS
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="http://roarmediazone.com/tv/weblogo/77.jpg" group-title="Bangla",Mohona TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="http://roarmediazone.com/tv/weblogo/78.jpg" group-title="Bangla",Maasranga
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="Bangla",BTV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="http://roarmediazone.com/tv/weblogo/111.jpg" group-title="Bangla",NTV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nick" tvg-logo="" group-title="Bangla",nick
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="http://roarmediazone.com/tv/weblogo/96.jpg" group-title="Bangla",MY TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://roarmediazone.com/tv/weblogo/56.jpg" group-title="Music",Dhoom Music
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/86.jpg" group-title="Music",Gaan Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="http://roarmediazone.com/tv/weblogo/110.jpg" group-title="Bangla",Nagorik TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="Music",Zoom
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/113.jpg" group-title="Bangla",Boishakhi TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="http://roarmediazone.com/tv/weblogo/69.jpg" group-title="Bangla",Asian TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Islamic" tvg-logo="http://roarmediazone.com/tv/weblogo/94.jpg" group-title="Bangla",ATN Islamic
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushy TV" tvg-logo="http://roarmediazone.com/tv/weblogo/87.jpg" group-title="Bangla",Ekushy TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/100.jpg" group-title="Kolkata",Colors Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="http://roarmediazone.com/tv/weblogo/115.jpg" group-title="Hindi",Star Plus
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://roarmediazone.com/tv/weblogo/45.jpg" group-title="Hindi",Colors
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="http://roarmediazone.com/tv/weblogo/05.jpg" group-title="Hindi",Zee Cafe HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="" group-title="Sports",WilloW
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="Sports",Sky Sports Cricket
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports MIX" tvg-logo="" group-title="Sports",Sky Sports MIX
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="http://roarmediazone.com/tv/weblogo/92.jpg" group-title="Sports",Ptv Sports
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And TV HD" tvg-logo="http://roarmediazone.com/tv/weblogo/44.jpg" group-title="Hindi",And TV HD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="Hindi",Star Gold
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="Hindi",Zee Cinema
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="Hindi",Sony Max
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="http://roarmediazone.com/tv/weblogo/48.jpg" group-title="Hindi",And Flix
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://roarmediazone.com/tv/weblogo/54.jpg" group-title="Documentary",Cartoon Network
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="" group-title="Bangla",ATN Music
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="" group-title="Bangla",Makkah Live
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSb1MKImRa4-SmCTjyXoJI4Y8QjRw7Al5vwPLm02QdawCkT5pv" group-title="Bangla",BTV World
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="" group-title="English",DW NEWS
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla TV" tvg-logo="" group-title="Bangla",Movie Bangla TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Dawah" tvg-logo="" group-title="Bangla",Al Dawah
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="" group-title="Bangla",Sangsad TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="English",Al Jazeera
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="Hindi",Zee Action
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="Bangla",Bangla Talkies
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="Music",PTV WORLD
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="Music",ZING
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="Bangla",Ruposhi Bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="http://hitectv.live/anytv/sangeetbangla.png" group-title="Music",Sangeet bangla
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie plus" tvg-logo="" group-title="Hindi",Movie plus
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/97.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="Music",9x jhakaas
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And Pictures" tvg-logo="" group-title="Hindi",And Pictures
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1 Interrogation - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjrERMT49YgPt4V0Jm2fwiValo9.jpg" group-title="English",1 Interrogation - 2020
+http://freeiptv.thunderbd.com:25461/movie/free/roarzone/116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Graves in the Desert - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf6GmUqyzxVTtZYZ4LzCPgz89nV.jpg" group-title="English",2 Graves in the Desert - 2020
+http://freeiptv.thunderbd.com:25461/movie/free/roarzone/117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/123.jpg" group-title="Kolkata",Sony Aath
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="" group-title="Sports",T Sports
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="Music",Mnx
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="Music",Sony MIX
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Bollywood" tvg-logo="" group-title="Hindi",ZEE Bollywood
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xo / 9x-jalwa" tvg-logo="" group-title="Music",9xo / 9x-jalwa
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/98.m3u8
