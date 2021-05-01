@@ -55,8 +55,6 @@ https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://calcuttanews.tv/images/cnwotag.png" group-title="News",AKD Calcutta News (540p)
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
-#EXTINF:-1 tvg-id="AmarUjala.in" tvg-name="Amar Ujala" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Amar Ujala (360p)
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png" group-title="Entertainment",Amrita TV (576p)
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 tvg-id="Anjan.in" tvg-name="Anjan" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Anjan (720p)
@@ -85,12 +83,6 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-id="Bollywood.in" tvg-name="Bollywood" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Bollywood (480p)
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.in" tvg-name="Bollywood Classic" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="",Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="BollyWoodHD.in" tvg-name="BollyWood HD" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",BollyWood HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="BollywoodNow.in" tvg-name="Bollywood Now" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="",Bollywood Now
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="BollywoodTV.in" tvg-name="Bollywood TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="",Bollywood TV
 https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
 #EXTINF:-1 tvg-id="BollywoodTV.in" tvg-name="Bollywood TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Bollywood TV
@@ -123,8 +115,6 @@ https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="CNBCTV18.in" tvg-name="CNBC TV18" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/3yumcV3.jpg" group-title="Business",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
-#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="News",CNN-News18
-https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/dd_malayalam-1.png" group-title="Entertainment",DD Malayalam (576p)
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" group-title="Entertainment",DD National (576p)
@@ -153,11 +143,8 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playl
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FlowersTV.in" tvg-name="Flowers TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/FLOWERS.jpg" group-title="Entertainment",Flowers TV (576p)
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 tvg-id="GabruuTV.in" tvg-name="Gabruu TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/k9kHJv9.jpg" group-title="Music",Gabruu TV
-http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1 tvg-id="GaundaPunjabTV.in" tvg-name="Gaunda Punjab TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/J74dCx6.png" group-title="",Gaunda Punjab TV (720p)
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GlobalPunjab.in" tvg-name="Global Punjab" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Global Punjab (720p)
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 #EXTINF:-1 tvg-id="GurbaniHealing.in" tvg-name="Gurbani Healing" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/qJkwmlD.jpg" group-title="",Gurbani Healing (720p)
 https://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
@@ -167,8 +154,6 @@ https://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist
 http://cdncities.com/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="HulchulTV.in" tvg-name="Hulchul TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 tvg-id="IBCKids.in" tvg-name="IBC Kids" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png" group-title="Kids",IBC Kids (720p)
-https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-name="India News" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",India News (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",India Today
