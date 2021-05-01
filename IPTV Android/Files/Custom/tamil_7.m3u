@@ -17,30 +17,6 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-black.png", IBC TAMIL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-music.png", IBC MUSIC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://ibcmusic-live.ibctamil.com/transcode/music_std.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png", IBC COMEDY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8
-
-#EXTINF:0 tvg-logo="http://saalaitv.com/logo/IBCPAKIDI.png" group-title="Tamil;Kids",IBC Kids Tamil
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
-
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png", 3 TAMIL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -71,23 +47,11 @@ http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/6GxuWXT.png",Sana Plus
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/0ApLXUi.png",Thalapathy TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://7starcloud.com:1935/thalapathytv/livethalapathy/playlist.m3u8
 
 #EXTINF:0 group-title="Tamil;Local",Aarya Premiere
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -100,18 +64,6 @@ http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/QXV7bn4.png",Sigaram TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://7starcloud.com:1935/sigaram/sigaramtv/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/9J5HJuI.png",Vani TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 
 #EXTINF:0 group-title="Tamil;Local",Arasan TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -131,30 +83,6 @@ http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
 
-#EXTINF:0 group-title="Tamil;Local",Amma Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local",AKARAM TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/4sOEcez.png" group-title="Tamil;Local",Vathanam TV 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/3IzVcjg.png",Pakalavan TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8
-
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png",MK Six
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -172,36 +100,6 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-
-#EXTINF:0 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/analaiexpress1.jpg" group-title="Tamil;Local",Analai Express HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://eu.streamjo.com/sarastv/sarastv.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/TIc76op.png" group-title="Tamil;Local",Deepam TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://95.217.218.87/deepamtvhls/live.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Tamil;Local",EET TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://eu.streamjo.com/eetlive/eettv.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ExYV0nb.png" group-title="Tamil;Local",TET TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://206.47.41.166:8080/1.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="http://www.worldtamil.tv/img/logo.png", WORLD TAMIL TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
 
 #EXTINF:0, group-title="Tamil;Local" tvg-logo="http://haritv.com/images/logo.png",HARI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -268,12 +166,6 @@ https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/ind
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8 
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/kanaatvnew.jpg", KANA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kanaatv123_low/index.m3u8
-
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/kvmtv.jpg", KVM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -310,43 +202,13 @@ https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/kathir_tv_logo.png", KADHIR TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kathirtv123_low/index.m3u8
-
-#EXTINF:0, group-title="Tamil;Local" tvg-logo="https://erodercntv.com/wp-content/themes/rcn_theme/images/logo.png",RCN TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://5c75277727cd1.streamlock.net/rcntv/rcntv/playlist.m3u8
-
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jayamtv.jpg", JAYAM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jayamtvtvm_low/index.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://via.placeholder.com/640x360.png?text=JEYAM+TV", JEYAM TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeyamtv321_low/index.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/vedha_tv_logo.jpeg", VEDA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/vedhatv_low/index.m3u8
-
-#EXTINF:0, group-title="Tamil;Local" tvg-logo="https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png",VASANTHAM TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
-
-#EXTINF:0, group-title="Tamil;Local" tvg-logo="https://via.placeholder.com/640x360.png?text=Nila+Tv",NILA TV
+#EXTINF:0, group-title="Tamil;Local" tvg-logo="https://via.placeholder.com/640x360.png?text=Nila+Tv", NILA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -427,12 +289,6 @@ http://rtmp.santhoratv.zecast.net/tamilbusinesstv//tamilbusinesstv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ns2x7ws.png" group-title="Tamil;Local",Yupp TV Tamil Classics 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
-
 #EXTINF:0 group-title="Tamil;Local",Nam TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -463,45 +319,6 @@ http://185.105.4.244:1935/livesp/csktv1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 
-#EXTINF:0 group-title="Tamil;Local",Aarya Premiere
-http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;MX" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg", 7S MUSIC TV 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://m-c049-j2apps.s.llnwi.net/hls/1493.7SMusic.in_360p/index.m3u8
-
-#EXTINF:0 group-title="Tamil;MX" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg", ISAIARUVI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8
-
-#EXTINF:0 group-title="Tamil;MX" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg", CAPTAIN TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
-
-#EXTINF:0 group-title="Tamil;MX" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg", VENDHAR TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8
-
-#EXTINF:0 group-title="Tamil;MX" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/3731.Tunes6.in/en/1x1/208x208/test_pic1552387113014.jpg", TUNE 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://dheeran.tv/img/1.png", DHEERAN TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://5c75277727cd1.streamlock.net/dheeran/dheeran/playlist.m3u8
-
 #EXTINF:0, group-title="Tamil;News" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",News 18 TAMIL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -520,36 +337,6 @@ http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
 
-#EXTINF:0, group-title="Tamil;Devotional" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-bakthi.png",IBC Bakthi
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi.m3u8
-
-#EXTINF:0, group-title="Tamil;Devotional" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-siluvaii.png",IBC Siluvai
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://ibcsiluvai-live.ibctamil.com/transcode/ibcsiluvai.m3u8
-
-#EXTINF:0, group-title="Tamil;Entertainment" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-canada.png",IBC Tamil Canada
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://ibctamilcanada-live.ibctamil.com/transcode/ibccanada.m3u8
-
-#EXTINF:0, group-title="Tamil;Devotional" tvg-logo="https://i.imgur.com/IKiNKDu.png",Imayam TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://5c75277727cd1.streamlock.net:443/imayamtv/imayamtv/playlist.m3u8
-
-#EXTINF:0, group-title="Tamil;Entertainment" tvg-logo="https://i.imgur.com/mrvGGKY.png",Kollywood TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in.m3u8
-
 #EXTINF:0, group-title="Tamil;News" tvg-logo="https://i.imgur.com/uFiHtQX.png",Malaimurasu
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -561,4 +348,3 @@ https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://live.wmncdn.net/peppers/live.stream/index.m3u8
-
