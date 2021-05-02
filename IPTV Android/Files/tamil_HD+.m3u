@@ -67,7 +67,7 @@ http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="Tamil HD", Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="TAMIL HD", Thanthi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="Tamil HD", Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/chennai/i8/044pxx44.xx44.160117204546.a3i8/catalogue/vaanavil-tv-anna-nagar-chennai-satellite-channels-0bcm2an7no-250.jpg" group-title="Tamil HD", Vaanavil TV
